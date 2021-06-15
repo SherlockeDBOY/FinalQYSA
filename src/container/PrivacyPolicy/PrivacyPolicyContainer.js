@@ -67,12 +67,15 @@ const PrivacyPolicyContainer = () => {
                         <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                             <div className="inner">
                                 <p>
-                                1.	<a href="/">Security</a><br/>
-                                2.	<a href="/">QYSA SOLUTIONS uses Google AdWords for remarketing</a><br/>
-                                3.	<a href="/">Protection of Certain Personally-Identifying Information</a><br/>
-                                4.	<a href="/">Cookies</a><br/>
-                                5.	<a href="/">Privacy Policy Changes</a><br/>
-                                6.	<a href="/">Contact Information & Credit</a><br/>
+                                <ol>
+                                    <li><a href="/">Security</a></li>
+                                    <li><a href="/">QYSA SOLUTIONS uses Google AdWords for remarketing</a></li>
+                                    <li><a href="/">Protection of Certain Personally-Identifying Information</a></li>
+                                    <li><a href="/">Cookies</a></li>
+                                    <li><a href="/">Privacy Policy Changes</a></li>
+                                    <li><a href="/">Contact Information & Credit</a></li>
+                                </ol>
+                                
 
                                 </p>
                             </div>
