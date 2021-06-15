@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/Placements&Training.svg",
+        "title": "Placement And Training",
+        "desc": "Our training & placement program includes aptitude tests and technical skill training. These are crucial skills that we develop for the students that consult us for placements.",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },{
+        "id": "2",
+        "icon": "images/svg/linea/Import&Export.svg",
+        "title": "Import and Export",
+        "desc": "Our technology-driven service model consists of a fully online platform to manage your business. It is easy to use and facilitates coordination between all the parties involved. ",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/cybersecurity.svg",
+        "title": "Cyber-Security",
+        "desc": "Our integrated solutions for Dark Web monitoring helps to find your data. We have fully automated solutions that protect you from various digital risks and hazards.",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    
+    {
+        "id": "4",
+        "icon": "images/svg/linea/EventManagement.svg",
+        "title": "Event Management/Workforce",
+        "desc": "With almost five years of experience in the field, we can create exceptional events for you. We handle all the aspects of the event, from designing to execution. ",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    {
+        "id": "5",
+        "icon": "images/svg/linea/DigitalMarketing.svg",
+        "title": "Digital Marketing and Website Development",
+        "desc": "We specialise in branding and web development and have marketing experience with Fortune 500 companies and iconic brands. We can promote your brands...",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    {
+        "id": "6",
+        "icon": "images/svg/linea/Ecommerce.svg",
+        "title": "Ecommerce",
+        "desc": "Our API integration enables faster delivery and better sales while building a personalised experience for your business; using our omnichannel supply chain   &   provide real-time inventory management. ",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    
+    {
+        "id": "7",
+        "icon": "images/svg/linea/Datamanagement.svg",
+        "title": "Data Management",
+        "desc": "We have contextual and demographic data from over 40 suppliers. Discover, manage and use these data and the robust analytics they provide.",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    },
+    {
+        "id": "8",
+        "icon": "images/svg/linea/Blockchain.svg",
+        "title": "Blockchain",
+        "desc": "Keeping track of your online transactions can be difficult.\n\n We have professionals who can use Blockchain to store your digital ledgers.",
+        "pageLink": "Learn More",
+        "link": "/our-services"
+    }
+]

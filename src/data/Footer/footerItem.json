@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "list": [
+            {
+            "id": 1,
+            "text": "Services",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "Know Us",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "Connect",
+            "url": "/contact"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Know Us",
+        "list": [
+            {
+            "id": 1,
+            "text": "About Us",
+            "url": "/about"
+            },
+            {
+            "id": 2,
+            "text": "Terms And Conditions",
+            "url": "/terms-and-condition"
+            },
+            {
+            "id": 3,
+            "text": "Privacy Policy",
+            "url": "/privacy-policy"
+            },
+            {
+            "id": 4,
+            "text": "Refund/Cancellation",
+            "url": "/refund-or-cancellation"
+            },
+            {
+            "id": 5,
+            "text": "Disclaimer",
+            "url": "/disclaimer"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Services",
+        "list": [
+            {
+            "id": 1,
+            "text": "Placement and Training",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "Import and Export",
+            "url": "/service"
+            },
+            {
+            "id": 3,
+            "text": "Ecommerce",
+            "url": "/service"
+            },
+            {
+            "id": 4,
+            "text": "Digital Marketing & Website Development",
+            "url": "/service"
+            },
+            {
+            "id": 5,
+            "text": "Cybersecurity",
+            "url": "/service"
+            },
+            {
+            "id": 6,
+            "text": "Data Management",
+            "url": "/service"
+            },
+            {
+            "id": 7,
+            "text": "Blockchain",
+            "url": "/service"
+            },
+            {
+            "id": 8,
+            "text": "Event Management / Manpower",
+            "url": "/service"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Connect",
+        "list": [
+            {
+            "id": 1,
+            "text": "Career",
+            "url": "/contact"
+            },
+            {
+            "id": 2,
+            "text": "Partnership",
+            "url": "/contact"
+            },
+            {
+            "id": 3,
+            "text": "General",
+            "url": "/contact"
+            }
+        ]
+    }
+]

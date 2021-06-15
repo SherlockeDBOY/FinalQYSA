@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "title": "General",
+    "info": "for general inquiries  <br/><br/>",
+    "mail": "inquire@qysasolutions.com"
+    },
+    {
+    "id": "2",
+    "title": " Partnership",
+    "info": "for vendors and talent interested in working with us  <br/><br/>",
+    "mail": "info@qysasolutions.com "
+    },
+    {
+    "id": "3",
+    "title": " Career",
+    "info": "to inquire about internships or positions  <br/><br/>",
+    "mail": "inquire@qysasolutions.com"
+    }
+]
