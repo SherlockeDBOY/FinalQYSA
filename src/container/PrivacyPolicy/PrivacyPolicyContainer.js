@@ -69,14 +69,12 @@ const PrivacyPolicyContainer = () => {
                                 <p>
                                 <ol>
                                     <li><a href="/">Security</a></li>
-                                    <li><a href="/">QYSA SOLUTIONS uses Google AdWords for remarketing</a></li>
-                                    <li><a href="/">Protection of Certain Personally-Identifying Information</a></li>
+                                    <li><a href="/">QYSA SOLUTIONS uses<br/> Google AdWords for remarketing</a></li>
+                                    <li><a href="/">Protection of Certain<br/> Personally-Identifying Information</a></li>
                                     <li><a href="/">Cookies</a></li>
                                     <li><a href="/">Privacy Policy Changes</a></li>
                                     <li><a href="/">Contact Information & Credit</a></li>
                                 </ol>
-                                
-
                                 </p>
                             </div>
                         </div>
