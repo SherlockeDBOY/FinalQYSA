@@ -12,7 +12,6 @@ const ServiceIconBox = ({ classOption }) => {
 
                 <SectionTitle
                     title="Our Services"
-                    subTitle=""
                 />
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mb-n6">

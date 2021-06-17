@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "categories": ["Company"],
+        "body": ["Campus Placements: We organize campus placements in multiple colleges for filling the freshers requirements of the company. We ensure to provide freshers with required skill set and mindset which will enhance the workforce and the future of the company. Mass Hiring: We provide mass hiring services for the companies who are expanding rapidly. Through campus placements, direct hiring and training we meet the desired quantity and quality of the employees for you. Training: We provide basic training programs for freshers and advanced training programs for the professionals to upgrade their skills. Our training programs offers wide range of courses and ensures to deliver top quality training. Direct Hiring: We can directly link the candidates with required skills and experience who apply in our portals. We also do head-hunting for the companies who require top performers for the desired post. Vender management:  Basically tieing up with other firms to accomplish a bigger project by giving them a percentage but taking the full credit.??"
+        ],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        }
+    },
+    {
+        "id": 2,
+        "categories": ["Institutes"],
+        "body": ["Training : We provide industry standard courses in wide range of Technical and non-technical skills which will enhance the student’s resume and makes meet the requirements of many companies.",
+        "Courses??",
+        "Direct placement: We can place the candidates to companies according to their current skills, certification and degree",
+        "Seminars and Workshop: We organize seminars and workshops across multiple Institutes to educate and enhance students understanding of current job requirements. Our workshop and seminar catalog range from Engineering to management. The certification we provide will improve the students’ resume.",
+        "Internship: We provide Internship options according to student’s current college degree. Our tiup with many companies equip us to provide quality internship for the students in appropriate "],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        }
+    },
+    {
+        "id": 3,
+        "categories": ["Individual"],
+        "body": ["A lot of elite IT companies like TCS, Infosys, Accenture, Cognizant recruit 1-1.2 lakh graduates from college campuses. Along with the technical skills, their campus recruitment processes also include aptitude tests- which test you on your Quantitative, Logical Reasoning, and Language skills. QYSA Placement Training Program will equip you with the skills so that you can land your dream job with these elite companies.",
+        "We know that every interaction a student has with us is vital. Hence, we esteem these interactions that builds the foundation for the student to embark on the right career track. Faced with a choice between a student's interest and the company's interest, it is always the former that gets priority. It is this dedication that makes QYSA stand apart from other organizations. For,",
+        "Freshers: We provide Training in wide range of Technical and Non-Technical skills. Depending upon your desired career path, we can train you and help you to get placed in the end",
+        "Intermidiate: We can also directly place you to companies with better position and package whose requirements are matched by your current skill set and certification. We also offer advanced Technical and non-technical training to upgrade your current skill set and place you in better companies.",
+        "Experienced: We can place you in the best/better company with a better position and package according to your experience in the field and your Technical/non- Technical skills ."],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        }
+    }
+    
+]
+
+

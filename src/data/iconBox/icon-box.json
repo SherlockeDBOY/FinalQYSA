@@ -5,7 +5,7 @@
         "title": "Placement And Training",
         "desc": "Our training & placement program includes aptitude tests and technical skill training. These are crucial skills that we develop for the students that consult us for placements.",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/training-and-placement"
     },{
         "id": "2",
         "icon": "images/svg/linea/Import&Export.svg",
@@ -29,7 +29,7 @@
         "title": "Event Management/Workforce",
         "desc": "With almost five years of experience in the field, we can create exceptional events for you. We handle all the aspects of the event, from designing to execution. ",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/event-management"
     },
     {
         "id": "5",

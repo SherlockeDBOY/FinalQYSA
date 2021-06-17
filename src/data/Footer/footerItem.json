@@ -58,7 +58,7 @@
             {
             "id": 1,
             "text": "Placement and Training",
-            "url": "/service"
+            "url": "/training-and-placement"
             },
             {
             "id": 2,
@@ -93,7 +93,7 @@
             {
             "id": 8,
             "text": "Event Management / Manpower",
-            "url": "/service"
+            "url": "/event-management"
             }
         ]
     },

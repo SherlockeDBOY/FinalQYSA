@@ -16,6 +16,8 @@ import 'react-modal-video/scss/modal-video.scss';
 import './assets/scss/style.scss';
 import Refund from "./pages/Refund";
 import Disclaimer from "./pages/Disclaimer";
+import EventManagement from "./pages/EventManagement";
+import TrainingAndPlacement from "./pages/TrainingAndPlacement";
 
 
 function App() {
@@ -37,6 +39,8 @@ function App() {
               <Route path={`${process.env.PUBLIC_URL + "/home-one"}`} exact component={HomeOne}/>
               <Route path={`${process.env.PUBLIC_URL + "/about"}`} component ={About} />
               <Route path={`${process.env.PUBLIC_URL + "/service"}`} component ={Service} />
+              <Route path={`${process.env.PUBLIC_URL + "/event-management"}`} component ={EventManagement} />
+              <Route path={`${process.env.PUBLIC_URL + "/training-and-placement"}`} component ={TrainingAndPlacement} />
               <Route path={`${process.env.PUBLIC_URL + "/contact"}`} component ={Contact} />
               <Route path={`${process.env.PUBLIC_URL + "/terms-and-condition"}`} component ={TermsAndCondition} />
               <Route path={`${process.env.PUBLIC_URL + "/refund-or-cancellation"}`} component ={Refund} />

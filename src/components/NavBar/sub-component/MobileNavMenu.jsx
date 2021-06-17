@@ -46,24 +46,24 @@ const MobileNavMenu = () => {
                     <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">Know Us</span></NavLink>
                     <span className="menu-toggle" onClick={onClickHandler}><i className="icon far fa-angle-down"></i></span>
                     <ul className="sub-menu">
-                        <li><NavLink to={process.env.PUBLIC_URL + "/"}><span className="menu-text">About Us</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Our Vision</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Our Team</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Our Partners</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">About Us</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Vision</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Team</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Partners</span></NavLink></li>
                     </ul>
                 </li>
                 <li className="has-children">
                     <NavLink to={process.env.PUBLIC_URL + "/service"}><span className="menu-text">Services</span></NavLink>
                     <span className="menu-toggle" onClick={onClickHandler}><i className="icon far fa-angle-down"></i></span>
                     <ul className="sub-menu">
-                        <li><NavLink to={process.env.PUBLIC_URL + "/"}><span className="menu-text">Placement and Training</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Import and Export</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Ecommerce</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Digital Marketing and  <br/> Website Development</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Cybersecurity</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Data Management</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Blockchain</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/`}><span className="menu-text">Event Management/ <br/>  Manpower</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + "/training-and-placement"}><span className="menu-text">Placement and Training</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Import and Export</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Ecommerce</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Digital Marketing and  <br/> Website Development</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Cybersecurity</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Data Management</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Blockchain</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/event-management`}><span className="menu-text">Event Management/ <br/>  Manpower</span></NavLink></li>
                     </ul>
                 </li>
                 <li>

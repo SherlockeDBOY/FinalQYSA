@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "",
+        "list": [
+            {
+            "id": 1,
+            "text": "PRINT & GRAPHIC DESIGN :",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "DECOR DESIGN & FABRICATION:",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "LIGHTING DESIGN & PRODUCTION:",
+            "url": "/contact"
+            },
+            {
+            "id": 4,
+            "text": "TABLE DESIGN & EXECUTION:",
+            "url": "/contact"
+            },
+            {
+            "id": 5,
+            "text": "FLORAL DESIGN & INSTALLATION:",
+            "url": "/contact"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "",
+        "list": [
+            {
+            "id": 1,
+            "text": "SOUND DESIGN:",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "INVITATION & RSVP MANAGEMENT:",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "CRITICAL PATH DEVELOPMENT:",
+            "url": "/contact"
+            },
+            {
+            "id": 4,
+            "text": "VENDOR CONTRACT NEGOTIATION:",
+            "url": "/contact"
+            },
+            {
+            "id": 5,
+            "text": "CATERING CONSULTATION:",
+            "url": "/contact"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "",
+        "list": [
+            {
+            "id": 1,
+            "text": "EVENT STAFFING:",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "MEDIA RELATIONS:",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "SPONSORSHIP MANAGEMENT:",
+            "url": "/contact"
+            },
+            {
+            "id": 4,
+            "text": "TALENT PROCUREMENT:",
+            "url": "/contact"
+            },
+            {
+            "id": 5,
+            "text": "VIDEO PRODUCTION MANAGEMENT:",
+            "url": "/contact"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "",
+        "list": [
+            {
+            "id": 1,
+            "text": "MULTIMEDIA PRODUCTION MANAGEMENT :",
+            "url": "/service"
+            },
+            {
+            "id": 2,
+            "text": "HOSPITALITY & TRAVEL:",
+            "url": "/about"
+            },
+            {
+            "id": 3,
+            "text": "PROTOCOL & CONCIERGE ACTIVATION:",
+            "url": "/contact"
+            },
+            {
+            "id": 4,
+            "text": "TOTAL EVENT LOGISTICS:",
+            "url": "/contact"
+            },
+            {
+            "id": 5,
+            "text": "BUDGET DEVELOPMENT:",
+            "url": "/contact"
+            }
+        ]
+    }
+]
