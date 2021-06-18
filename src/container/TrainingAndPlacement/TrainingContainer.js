@@ -5,6 +5,7 @@ import WorkFilter from "../../components/TrainingAndPlacement/TrainingFilter";
 import WorkItem from "../../components/TrainingAndPlacement/TrainingItem";
 import workData from '../../data/services/trainingDetails.json';
 import {slugify} from "../../utils";
+// import PlacementDetail from '../../data/services/placementDetail';
 
 
 const TrainingContainer = () => {
