@@ -15,7 +15,7 @@ const TrainingAndPlacement = () => {
         <React.Fragment>
             <SEO title="QYSA Solutions || Training And Placement" />
             <Header />
-            <ServiceSlider title="Training and Placement" tagline="We are QYSA Solutions"/>
+            <ServiceSlider title="Training and Placement"/>
             <TrainingAbout/>
             <Portfolio/>
             <ContactInformationThree />

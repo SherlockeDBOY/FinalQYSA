@@ -16,12 +16,12 @@ const TrainingContainer = () => {
         <div className="section section-padding ag-masonary-wrapper">
             <div className="container">
                 <div className="row align-items-center">
-                    <div className="col-lg-5">
+                    {/*<div className="col-lg-5">
                             <SectionTitleTwo 
                                 subTitle=""
                                 title="Training and Placements"
                             />
-                    </div>
+                    </div>*/}
                     <div className="col-lg-7 justify-content-center fw-400" data-aos="fade-up" data-aos-delay="300">
                         <TrainingFilter categories={categories}/>
                     </div>
