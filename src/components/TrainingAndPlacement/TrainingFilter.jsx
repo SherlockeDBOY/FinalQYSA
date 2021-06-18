@@ -16,7 +16,7 @@ TrainingFilter.propTypes = {
 }
 
 TrainingFilter.defaultProps = {
-    classOption: "text-lg-right text-left mb-lg-13 mb-md-13 mb-6"
+    classOption: "text-lg-left text-left mb-lg-13 mb-md-13 mb-6"
 };
 
 export default TrainingFilter;
