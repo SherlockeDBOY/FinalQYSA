@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
+// import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
 import useMasonry from "../../hooks/use-masonry";
 import TrainingFilter from "../../components/TrainingAndPlacement/TrainingFilter";
 import WorkItem from "../../components/TrainingAndPlacement/TrainingItem";
