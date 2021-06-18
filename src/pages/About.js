@@ -6,6 +6,7 @@ import KnowUsContent from '../container/About/KnowUsContent';
 import Team from '../container/Team/Team';
 import Faq from '../container/Faq/Faq';
 import Footer from '../container/Footer/Footer';
+import GridGallery from '../container/Gallery/GridGallery';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 
 
@@ -22,6 +23,7 @@ const AboutUs = () => {
             />
             <KnowUsContent/>
             <Faq />
+            <GridGallery/>
             <Team />
             <Footer />
             <ScrollToTop />
@@ -30,6 +32,3 @@ const AboutUs = () => {
 }
 
 export default AboutUs;
-
-
-

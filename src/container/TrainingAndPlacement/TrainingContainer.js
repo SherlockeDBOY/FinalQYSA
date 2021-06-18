@@ -1,7 +1,7 @@
 import React from 'react';
 import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
 import useMasonry from "../../hooks/use-masonry";
-import WorkFilter from "../../components/TrainingAndPlacement/TrainingFilter";
+import TrainingFilter from "../../components/TrainingAndPlacement/TrainingFilter";
 import WorkItem from "../../components/TrainingAndPlacement/TrainingItem";
 import workData from '../../data/services/trainingDetails.json';
 import {slugify} from "../../utils";
@@ -22,8 +22,8 @@ const TrainingContainer = () => {
                                 title="Training and Placements"
                             />
                     </div>
-                    <div className="col-lg-7 justify-content-center" data-aos="fade-up" data-aos-delay="300">
-                        <WorkFilter categories={categories}/>
+                    <div className="col-lg-7 justify-content-center fw-400" data-aos="fade-up" data-aos-delay="300">
+                        <TrainingFilter categories={categories}/>
                     </div>
                 </div>
 

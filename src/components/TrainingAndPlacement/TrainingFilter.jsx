@@ -5,8 +5,8 @@ import {slugify} from "../../utils";
 const TrainingFilter = ({ categories, classOption }) => {
     return (
         <div className={`messonry-button ${classOption}`}>
-            <button data-filter="*" className="is-checked"><span>All</span></button>
-            {categories.map((cat, idx) => <button key={idx} data-filter={`.${slugify(cat)}`}><span >{cat}</span></button>)}
+            <button data-filter="*" className="is-checked"><span><strong>All</strong></span></button>
+            {categories.map((cat, idx) => <button key={idx} data-filter={`.${slugify(cat)}`}><span ><strong>{cat}</strong></span></button>)}
         </div>
     )
 }
