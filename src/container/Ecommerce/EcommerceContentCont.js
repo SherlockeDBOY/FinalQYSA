@@ -2,11 +2,11 @@ import React from 'react'
 
 const EcommerceContentCont = () => {
     return (
-        <div className="video-section section section-padding-bottom-150">
+        <div className="video-section section section-padding-t110-b120">
             <div className="container">
                 <div className="row">
 
-                    <div className="col-lg-8 m-auto" data-aos="fade-up">
+                    <div className="col-lg-10 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
                         <div className="about-content-full text-center  mb-lg-10 mb-0">
                             <div className="d-flex col-lg-10 mx-auto justify-content-between mb-10">
                                 <ul style={{padding:"0"}}>
@@ -27,7 +27,7 @@ const EcommerceContentCont = () => {
                         </div>
                         <div className="footer-widget">
                             <h2 className=" text-center" style={{color:"black"}}>Features</h2>
-                            <div className="footer-widget-content d-flex justify-content-evenly flex-lg-row flex-sm-column">
+                            <div className="footer-widget-content ecom-widget-content">
                                 <ul>
                                         <li style={{lineHeight:"3"}} data-aos="fade-up">
                                         Dashboard

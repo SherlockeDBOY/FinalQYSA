@@ -17,23 +17,23 @@ const ImportAbout = () => {
 
     }, [])
     return (
-        <div className="section section-padding-top">
+        <div className="section section-padding-t110-b120">
             <div className="container">
 
                 <div className="row">
 
-                    <div className="align-items-center col-xl-6 col-lg-6 col-12" data-aos="fade-up">
-                        <div className=" my-auto  mt-0 mb-md-10 mb-10">
-                            <div className="row mb-n6 ">
-                            <p style={{fontSize:"1.3rem", lineHeight:"2.5"}}>
+                    <div className="align-items-center col-xl-7 col-lg-7 col-12" data-aos="fade-up">
+                        <div className=" my-auto  mt-0 mb-md-10 mb-10 align-content-center" style={{height:"100%"}}>
+                            <div className="row mb-n6" >
+                            <p style={{fontSize:"1.3rem", lineHeight:"2"}}>
                             We are merchant exporters of varies products like textile, clothing etc. We provide services to our customers where they can customize quality, size, type etc on bulk orders. Packaging and labelling are provided according to the client’s requirements of barcoding, labelling etc. We also provide solutions to facilitate the smooth trading between the buyer and the seller. 
                             </p>
                             </div>
                         </div>
                     </div>
 
-                    <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
-                        <div className="about-image-area about-shape-animation right-0 mr-0">
+                    <div className="col-xl-5 col-lg-5 col-12" data-aos="fade-up" data-aos-delay="300">
+                        <div className="about-image-area about-shape-animation justify-content-center mr-0">
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
                                     <img src={process.env.PUBLIC_URL + "images/about/about-1.jpg"} alt="" />

@@ -2,7 +2,7 @@ import React from 'react'
 
 const ImportContentCont = () => {
     return (
-        <div className="video-section section section-padding-bottom-150">
+        <div className="video-section section section-padding-t110-b120">
             <div className="container">
                 <div className="row">
 

@@ -241,6 +241,18 @@
     }
   }
 }
+.ecom-widget-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  @media #{$tablet-device,
+    $large-mobile
+    } {
+    padding-left: 30px;
+    flex-direction: column;
+  }
+}
 .ft-badge {
   background-color: $primary;
   display: inline-block;

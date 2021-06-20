@@ -17,7 +17,7 @@ const ImportAccordion = () => {
 
     }, [])
     return (
-        <div className="faq-section section section-padding-top bg-primary-blue">
+        <div className="faq-section section section-padding-t110-b120 bg-primary-blue">
             <div className="container">
                 <div className="row row-cols-lg-2 row-cols-1 mb-n6">
                     <div className="col mb-6" data-aos="fade-up">
