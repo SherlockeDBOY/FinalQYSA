@@ -23,8 +23,8 @@ const NavBar = () => {
                     <span className="menu-toggle"><i className="far fa-angle-down"></i></span>
                     <ul className="sub-menu">
                         <li><NavLink to={process.env.PUBLIC_URL + "/training-and-placement"}><span className="menu-text">Placement and Training</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Import and Export</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Ecommerce</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/import-and-export`}><span className="menu-text">Import and Export</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/ecommerce`}><span className="menu-text">Ecommerce</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Digital Marketing and  <br/> Website Development</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Cybersecurity</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Data Management</span></NavLink></li>

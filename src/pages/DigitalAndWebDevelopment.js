@@ -1,28 +1,19 @@
 import React from 'react';
 import SEO from '../components/SEO';
 import Header from "../partials/header/Header";
-// import Breadcrumb from '../container/Breadcrumb/Breadcrumb';
-import EventManagementAbout from '../components/Event-Management/EventManagementAbout';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
-import EventLinks from '../container/Event-Management/EventLinks';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
-import EventAboutCont from '../container/Event-Management/EventAboutCont';
 
-
-
-const EventManagement = () => {
+const DigitalAndWebDevelopment = () => {
     return (
         <React.Fragment>
-            <SEO title="QYSA Solutions || Event Management" />
+            <SEO title="QYSA Solutions || Digital Marketing And Web Development" />
             <Header />
             <ServiceSlider 
-            title="Event Management"
+            title="Digital Marketing And Web Development"
             bgImg="he-2.jpg"/>
-            <EventManagementAbout />
-            <EventLinks />
-            <EventAboutCont/>
             <ContactInformationThree />
             <Footer />
             <ScrollToTop />
@@ -30,4 +21,4 @@ const EventManagement = () => {
     )
 }
 
-export default EventManagement
+export default DigitalAndWebDevelopment

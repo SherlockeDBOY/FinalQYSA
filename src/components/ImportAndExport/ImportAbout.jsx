@@ -2,7 +2,7 @@ import React , {useState, useEffect, useRef} from 'react';
 import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
 
-const TrainingAbout = () => {
+const ImportAbout = () => {
     const [scale] = useState(1.04);
     const sceneEl = useRef(null);
 
@@ -17,17 +17,16 @@ const TrainingAbout = () => {
 
     }, [])
     return (
-        <div className="section section-padding-top section-padding-bottom">
+        <div className="section section-padding-top">
             <div className="container">
 
                 <div className="row">
 
-                    <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
-                        <div className="about-content-area mt-0 mb-md-10 mb-10">
-                            <div className="row mb-n6">
-                            <p>
-                                We provide workforce solutions serving clients, candidates and Institutes for recruitment and Staffing solutions across industries. We also specialize in training in wide range of technical and non-technical skills which provides industry ready manpower. We continue to work towards providing customers with a complete and integrated. We continue to work towards providing customers with a complete and integrated talent management solution and meet temporary and permanent needs of clients in the respective geographical areas through a cohesive blend of services and expertise in this space.<br/><br/>
-                                We focus on building workforce solutions in specialized industry verticals 
+                    <div className="align-items-center col-xl-6 col-lg-6 col-12" data-aos="fade-up">
+                        <div className=" my-auto  mt-0 mb-md-10 mb-10">
+                            <div className="row mb-n6 ">
+                            <p style={{fontSize:"1.3rem", lineHeight:"2.5"}}>
+                            We are merchant exporters of varies products like textile, clothing etc. We provide services to our customers where they can customize quality, size, type etc on bulk orders. Packaging and labelling are provided according to the client’s requirements of barcoding, labelling etc. We also provide solutions to facilitate the smooth trading between the buyer and the seller. 
                             </p>
                             </div>
                         </div>
@@ -38,11 +37,6 @@ const TrainingAbout = () => {
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
                                     <img src={process.env.PUBLIC_URL + "images/about/about-1.jpg"} alt="" />
-                                </Tilt>
-                            </div>
-                            <div className="about-image js-tilt">
-                                <Tilt scale={scale} transitionSpeed={4000}>
-                                    <img src={process.env.PUBLIC_URL + "images/about/about-2.jpg"} alt="" />
                                 </Tilt>
                             </div>
                             <div className="shape shape-1" id="scene" ref={sceneEl}>
@@ -58,4 +52,4 @@ const TrainingAbout = () => {
     )
 }
 
-export default TrainingAbout
+export default ImportAbout

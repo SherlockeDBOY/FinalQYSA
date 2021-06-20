@@ -1,7 +1,7 @@
 import React from 'react'
 import EventData from '../../data/services/eventsLink.json';
-import FooterLinkItem from '../../components/Footer/FooterLinkItem.jsx';
 import SectionTitle from '../../components/SectionTitles/SectionTitle';
+import EventLinkItem from '../../components/Event-Management/EventLinkItem';
 
 
 const EventLinks = () => {
@@ -15,7 +15,7 @@ const EventLinks = () => {
                 {EventData && EventData.map((single, key) => {
                         return(
                             <div key={key} className="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 mb-6 text-center">
-                                <FooterLinkItem data={single} key={key} />
+                                <EventLinkItem data={single} key={key} />
                             </div>
                         ); 
                 })}

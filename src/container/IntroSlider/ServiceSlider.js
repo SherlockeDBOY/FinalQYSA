@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 
 
 
-const ServiceSlider = ({title, tagline}) => {
+const ServiceSlider = ({title, tagline, bgImg}) => {
     return (
-        <div className="intro-section section overlay" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/hero-image/he-1.jpg)`}}>
+        <div className="intro-section section overlay" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/hero-image/${bgImg})`}}>
 
             <div className="container">
                 <div className="row row-cols-lg-1 row-cols-1">
@@ -28,7 +28,8 @@ const ServiceSlider = ({title, tagline}) => {
 
 ServiceSlider.propTypes = {
     title: PropTypes.string,
-    tagline: PropTypes.string
+    tagline: PropTypes.string,
+    bgImg: PropTypes.string
 };
 
 export default ServiceSlider
