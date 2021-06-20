@@ -21,6 +21,7 @@ import TrainingAndPlacement from "./pages/TrainingAndPlacement";
 import DigitalAndWebDevelopment from "./pages/DigitalAndWebDevelopment";
 import ImportAndExport from "./pages/ImportAndExport";
 import ECommerce from "./pages/Ecommerce";
+import DataManagement from "./pages/DataManagement";
 
 
 function App() {
@@ -45,6 +46,7 @@ function App() {
               <Route path={`${process.env.PUBLIC_URL + "/event-management"}`} component ={EventManagement} />
               <Route path={`${process.env.PUBLIC_URL + "/training-and-placement"}`} component ={TrainingAndPlacement} />
               <Route path={`${process.env.PUBLIC_URL + "/digital-marketing"}`} component ={DigitalAndWebDevelopment} />
+              <Route path={`${process.env.PUBLIC_URL + "/data-management"}`} component ={DataManagement} />
               <Route path={`${process.env.PUBLIC_URL + "/import-and-export"}`} component ={ImportAndExport} />
               <Route path={`${process.env.PUBLIC_URL + "/ecommerce"}`} component ={ECommerce} />
               <Route path={`${process.env.PUBLIC_URL + "/contact"}`} component ={Contact} />

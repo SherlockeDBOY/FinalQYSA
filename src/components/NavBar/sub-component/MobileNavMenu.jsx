@@ -60,10 +60,8 @@ const MobileNavMenu = () => {
                         <li><NavLink to={process.env.PUBLIC_URL + "/training-and-placement"}><span className="menu-text">Placement and Training</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/import-and-export`}><span className="menu-text">Import and Export</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/ecommerce`}><span className="menu-text">Ecommerce</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Digital Marketing and  <br/> Website Development</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Cybersecurity</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Data Management</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/service`}><span className="menu-text">Blockchain</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/digital-marketing`}><span className="menu-text">Digital Marketing and  <br/> Website Development</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + `/data-management`}><span className="menu-text">Data Management</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/event-management`}><span className="menu-text">Event Management/ <br/>  Manpower</span></NavLink></li>
                     </ul>
                 </li>

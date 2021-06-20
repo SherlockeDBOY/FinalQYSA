@@ -1,11 +1,8 @@
-// import SectionTitle from '../SectionTitles/SectionTitle';
-// import SectionTitleTwo from '../SectionTitles/SectionTitleTwo';
 import {useState, useEffect, useRef} from "react";
 import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
-import {Link} from "react-router-dom";
 
-const HomeAbout = () => {
+const DataManagementAbout = () => {
     const [scale] = useState(1.04);
     const sceneEl = useRef(null);
 
@@ -22,11 +19,6 @@ const HomeAbout = () => {
     return (
         <div className="section section-padding-t90 section-padding-bottom-200">
             <div className="container">
-
-                {/*<SectionTitle
-                    title="Know Us"
-                    subTitle=""
-                /> */}
 
                 <div className="row ">
                     <div className="col-xl-7 col-lg-6 col-12" data-aos="fade-up">
@@ -56,11 +48,10 @@ const HomeAbout = () => {
                                 title="Know Us"
                             />*/}
 
-                            <p>We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
-                            We at QYSA Solutions aspire to help businesses expand globally through a variety of creative solutions. We are based in India with associates in five countries around the world. We ensure that our service delivery is quick and efficient while continuously adapting to our clients needs.<br/>
-                            We are always looking to strengthen our team further with globally proficient and experienced individuals</p>
+                            <p>In Today’s world Data management is a key factor in decision making. Companies gather a massive amount of data on things like products, customer, market, transactions etc. In their business endeavour. To mmaintain the flow of data, securing the data, running a quality check on data collected and extracting it can be difficult without the right resources and skills.<br/>
+                            QYSA provides Data Management Solutions that help companies to collect data of any type, from any source and structure to make it simple, accurate and accessible. Our team of experts will implement and customize industry standard software to produce desired results for our clients. 
+                            </p>
 
-                            <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>Know Us</Link>
                         </div>
                     </div>
 
@@ -71,4 +62,4 @@ const HomeAbout = () => {
     )
 }
 
-export default HomeAbout;
+export default DataManagementAbout

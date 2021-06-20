@@ -1,11 +1,9 @@
-// import SectionTitle from '../SectionTitles/SectionTitle';
-// import SectionTitleTwo from '../SectionTitles/SectionTitleTwo';
 import {useState, useEffect, useRef} from "react";
 import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
-import {Link} from "react-router-dom";
 
-const HomeAbout = () => {
+
+const DigitalMarketingAbout = () => {
     const [scale] = useState(1.04);
     const sceneEl = useRef(null);
 
@@ -22,11 +20,6 @@ const HomeAbout = () => {
     return (
         <div className="section section-padding-t90 section-padding-bottom-200">
             <div className="container">
-
-                {/*<SectionTitle
-                    title="Know Us"
-                    subTitle=""
-                /> */}
 
                 <div className="row ">
                     <div className="col-xl-7 col-lg-6 col-12" data-aos="fade-up">
@@ -51,16 +44,12 @@ const HomeAbout = () => {
 
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-content-area">
-                            {/*<SectionTitleTwo 
-                                subTitle=""
-                                title="Know Us"
-                            />*/}
+                            
 
-                            <p>We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
-                            We at QYSA Solutions aspire to help businesses expand globally through a variety of creative solutions. We are based in India with associates in five countries around the world. We ensure that our service delivery is quick and efficient while continuously adapting to our clients needs.<br/>
-                            We are always looking to strengthen our team further with globally proficient and experienced individuals</p>
+                            <p>The number of online users as well as their digital consumption has increased exponentially in last decade due to more accessible and affordable technologies. Because of that, the internet has too many websites competing for the customers attention at the same time. To be noticed and recognized you have to stand out from the competition. But how can you achieve that?<br/><br/>
+                            This is where come in. With our team of experts we can cater to your digital marketing and website development needs. We provide specific services , as well as packaged or costumes services. Whichever is more relevant to your company and your desires we will provide solutions. 
+                            </p>
 
-                            <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>Know Us</Link>
                         </div>
                     </div>
 
@@ -71,4 +60,4 @@ const HomeAbout = () => {
     )
 }
 
-export default HomeAbout;
+export default DigitalMarketingAbout

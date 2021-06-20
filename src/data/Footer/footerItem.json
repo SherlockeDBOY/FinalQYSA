@@ -63,35 +63,25 @@
             {
             "id": 2,
             "text": "Import and Export",
-            "url": "/service"
+            "url": "/import-and-export"
             },
             {
             "id": 3,
             "text": "Ecommerce",
-            "url": "/service"
+            "url": "/ecommerce"
             },
             {
             "id": 4,
             "text": "Digital Marketing & Website Development",
-            "url": "/service"
+            "url": "/digital-marketing"
             },
             {
             "id": 5,
-            "text": "Cybersecurity",
-            "url": "/service"
+            "text": "Data Management",
+            "url": "/data-management"
             },
             {
             "id": 6,
-            "text": "Data Management",
-            "url": "/service"
-            },
-            {
-            "id": 7,
-            "text": "Blockchain",
-            "url": "/service"
-            },
-            {
-            "id": 8,
             "text": "Event Management / Manpower",
             "url": "/event-management"
             }

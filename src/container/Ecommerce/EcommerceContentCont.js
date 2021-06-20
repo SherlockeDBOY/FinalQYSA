@@ -8,6 +8,7 @@ const EcommerceContentCont = () => {
 
                     <div className="col-lg-10 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
                         <div className="about-content-full text-center  mb-lg-10 mb-0">
+                        <h2 className=" text-center my-10" style={{color:"black"}}>Ecommerce Tools</h2>
                             <div className="d-flex col-lg-10 mx-auto justify-content-between mb-10">
                                 <ul style={{padding:"0"}}>
                                     <li style={{listStyle:"none"}}>Beautiful Online Store</li>

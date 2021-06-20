@@ -5,7 +5,6 @@ import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
-import ImportAndExportContainer from '../container/ImportAndExport/ImportAndExportContainer';
 import ImportAbout from '../components/ImportAndExport/ImportAbout';
 import ImportCenterCont from '../container/ImportAndExport/ImportCenterCont';
 import ImportContentCont from '../container/ImportAndExport/ImportContentCont';
@@ -21,7 +20,6 @@ const ImportAndExport = () => {
             bgImg="he-1.jpg"/>
             <ImportAbout/>
             <ImportCenterCont/>
-            <ImportAndExportContainer/>
             <ImportAccordion/>
             <ImportContentCont/>
             <ContactInformationThree />
