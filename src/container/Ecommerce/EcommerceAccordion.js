@@ -19,7 +19,7 @@ const EcommerceAccordion = () => {
     }, [])
     return (
         <div className="faq-section section bg-primary-blue">
-            <div className="container mb-20">
+            <div className="container mb-10">
                 <div className="row row-cols-lg-2 row-cols-1 mb-n6">
                     <div className="col mb-6" data-aos="fade-up">
                         <div className="faq-content">

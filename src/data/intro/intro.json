@@ -4,18 +4,21 @@
         "id": "1",
         "title": "Placement And Training",
         "desc":"",
+        "link":"/training-and-placement",
         "backgroundImage": "/images/hero-image/hero-1.jpg"
     },
     {
         "id": "2",
         "title": "Data Management",
         "desc":"",
+        "link":"/data-management",
         "backgroundImage": "/images/hero-image/hero-2a.jpg"
     },
     {
         "id": "3",
         "title": "Import And Export",
         "desc":"",
+        "link":"/import-and-export",
         "backgroundImage": "/images/hero-image/hero-3a.jpg"
     }
 ]

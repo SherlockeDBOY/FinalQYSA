@@ -12,7 +12,7 @@
         "title": "Import and Export",
         "desc": "Our technology-driven service model consists of a fully online platform to manage your business. It is easy to use and facilitates coordination between all the parties involved. ",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/import-and-export"
     },
     {
         "id": "3",
@@ -37,7 +37,7 @@
         "title": "Digital Marketing and Website Development",
         "desc": "We specialise in branding and web development and have marketing experience with Fortune 500 companies and iconic brands. We can promote your brands...",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/digital-marketing"
     },
     {
         "id": "6",
@@ -45,7 +45,7 @@
         "title": "Ecommerce",
         "desc": "Our API integration enables faster delivery and better sales while building a personalised experience for your business; using our omnichannel supply chain   &   provide real-time inventory management. ",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/ecommerce"
     },
     
     {
@@ -54,7 +54,7 @@
         "title": "Data Management",
         "desc": "We have contextual and demographic data from over 40 suppliers. Discover, manage and use these data and the robust analytics they provide.",
         "pageLink": "Learn More",
-        "link": "/our-services"
+        "link": "/data-management"
     },
     {
         "id": "8",
