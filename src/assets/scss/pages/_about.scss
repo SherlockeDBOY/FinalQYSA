@@ -295,3 +295,53 @@
     font-size: 18px !important;
   }
 }
+
+.bullet-block {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  max-width: 700px;
+  margin-bottom: 50px;
+  &::before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 12.5px;
+    left: 0;
+    @media #{$tablet-device},
+     #{$large-mobile} {
+      top: 12px;
+    }
+  }
+
+  .bullet-block__icon {
+    position: relative;
+    max-width: 16px;
+    width: 100%;
+    display: inline-block;
+    &::before {
+      content: "";
+      position: absolute;
+      left: 6.25px;
+      top: 33px;
+      height: 70%;
+      width: 2px;
+      background-color: #555;
+      border-radius: 10px;
+    }
+  }
+
+  .bullet-block__content {
+    margin-left: 30px;
+    @media #{$tablet-device},
+     #{$large-mobile} {
+      margin-left: 12.5px;
+    }
+  }
+  .disp_para {
+    visibility: hidden;
+  }
+}

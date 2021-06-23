@@ -6,8 +6,8 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import DigitalMarketingAbout from '../components/DigitalMarketing/DigitalMarketingAbout';
-import DigitalMarketingContainer from '../container/DigitalMarketing/DigitalMarketingContainer';
 import WebDevelopmentContainer from '../container/DigitalMarketing/WebDevelopmentContainer';
+import BulletContainer from '../container/DigitalMarketing/BulletContainer';
 
 const DigitalAndWebDevelopment = () => {
     return (
@@ -18,7 +18,7 @@ const DigitalAndWebDevelopment = () => {
                 title="Digital Marketing And Web Development"
                 bgImg="he-2.jpg" />
             <DigitalMarketingAbout />
-            <DigitalMarketingContainer />
+            <BulletContainer/>
             <WebDevelopmentContainer />
             <ContactInformationThree />
             <Footer />

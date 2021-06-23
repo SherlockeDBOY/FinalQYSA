@@ -18,7 +18,7 @@ const DigitalMarketingAbout = () => {
 
     }, [])
     return (
-        <div className="section section-padding-t90 section-padding-bottom-200">
+        <div className="section section-padding-t90 section-padding-bottom">
             <div className="container">
 
                 <div className="row ">

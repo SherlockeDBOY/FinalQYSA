@@ -3,7 +3,7 @@ import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
 
 const WebDevelopmentContainer = () => {
     return (
-        <div className="section section-padding bg-mid-gray">
+        <div className="section section-padding-bottom bg-primary-blue">
             <div className="container">
                 <div className="faq-content">
                             <SectionTitleTwo 

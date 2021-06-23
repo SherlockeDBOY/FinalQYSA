@@ -1,27 +1,104 @@
 [
     {
         "id": "1",
+        "dispPara":"",
         "title": "Search Engine Optimization",
         "info": "Boost your website traffic by our team of experts through proven SEO strategies. We also provide App Store and E-commerce SEO."
     },
     {
         "id": "2",
+        "dispPara":"",
         "title": " Earned Media",
         "info": "We help our clients to establish their brand through promotional champains and advertisements. Our team provides creative and innovative ways for building your brand."
     },
     {
         "id": "3",
+        "dispPara":"",
         "title": "Social Media Marketing",
         "info": "Want your presence in social media platforms like facebook, Instagram, Twitter, Youtube etc. We got you covered. Our team will design the strategy  which includes the management of a marketing campaign, governance, setting the scope (e.g. more active or passive use) and the establishment of a firm&apos;s desired social media culture and tone."
     },
     {
         "id": "4",
+        "dispPara":"",
         "title": "Digital PR",
         "info": "We have a huge network with journalists, bloggers and social media influencers to promote your product. We also send online press releases to gain high-quality backlinks, social media mentions to improve your SEO."
     },
     {
         "id": "5",
+        "dispPara":"",
         "title": "Conversion Rate Optimization (CRO)",
         "info": "We provide strategies to improve the percentage of website visitors to take a specific action (example, submitting a web form, making a purchase, signing up for a trial, leaving email etc.). Our team of experts will ensure to generate more leads or sales."
+    },
+    {
+        "id": "6",
+        "dispPara":"",
+        "title": "Amazon Marketing",
+        "info": "We provides strategies to promote and increase your product sale on Amazon. Our team will optimize your product page to improve your visibility in Amazon’s organic search. Use native Amazon advertising formats to endorse brands and product and will use use promo channels not offered by amazon."
+    },
+    {
+        "id": "7",
+        "dispPara":"",
+        "title": "Paid Media",
+        "info": " We can promote your content through sponsored social media posts, display ads, paid search results, video ads, pop-ups, and other promoted multimedia. "
+    },
+    {
+        "id": "8",
+        "dispPara":"disp_para",
+        "title": "Paid Search Management",
+        "info": ""
+    },
+    {
+        "id": "9",
+        "dispPara":"disp_para",
+        "title": "Google Display Advertising",
+        "info": ""
+    },
+    {
+        "id": "10",
+        "dispPara":"disp_para",
+        "title": "Paid Social Advertising",
+        "info": ""
+    },
+    {
+        "id": "11",
+        "dispPara":"",
+        "title": "Offline Conversion Tracking",
+        "info": " We provide solutions to better track both offline sales generated from Google Ads and other important mid-funnel offline conversions such as phone calls, form submissions, downloads, and so on. Our lead generation strategy includes searching for high-quality leads and converting them into loyal customers."
+    },
+    {
+        "id": "12",
+        "dispPara":"",
+        "title": "Results-Driven Strategy Development",
+        "info": "We provide market strategies which focuses on adjusting budgets to make more funds available than focusing on a cost and efficiency of the marketing."
+    },
+    {
+        "id": "13",
+        "dispPara":"",
+        "title": "Email & SMS List Growth Service",
+        "info": "We can promote your product through blasting Emails and SMS to the interested customers."
+    },
+    {
+        "id": "14",
+        "dispPara":"",
+        "title": "Behaviorally-Triggered & Data-Driven Automation",
+        "info": "We provide market automation solutions with custom workflows that execute desired actions when someone displays a specific behaviour. Ex-  email  and SMS after the purchase"
+    },
+    {
+        "id": "15",
+        "dispPara":"disp_para",
+        "title": "Cohesive Campaign Planning & Executiong",
+        "info": ""
+    },
+    {
+        "id": "16",
+        "dispPara":"disp_para",
+        "title": "Cross-Device Design",
+        "info": ""
+    },
+    {
+        "id": "17",
+        "dispPara":"disp_para",
+        "title": "Advanced Analytics & Optimization",
+        "info": ""
     }
 ]
