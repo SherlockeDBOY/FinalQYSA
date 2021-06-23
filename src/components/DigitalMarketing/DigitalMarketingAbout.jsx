@@ -43,7 +43,7 @@ const DigitalMarketingAbout = () => {
                     </div>
 
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
-                        <div className="about-content-area">
+                        <div className="about-content-area text-center">
                             
 
                             <p>The number of online users as well as their digital consumption has increased exponentially in last decade due to more accessible and affordable technologies. Because of that, the internet has too many websites competing for the customers attention at the same time. To be noticed and recognized you have to stand out from the competition. But how can you achieve that?<br/><br/>

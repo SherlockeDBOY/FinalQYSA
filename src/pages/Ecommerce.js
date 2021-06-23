@@ -6,20 +6,23 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import EcommerceAbout from '../components/Ecommerce/EcommerceAbout';
-import EcommerceAccordion from '../container/Ecommerce/EcommerceAccordion';
 import EcommerceContentCont from '../container/Ecommerce/EcommerceContentCont';
+import EcommerceTextContainer from "../container/TextContainer/EcommerceTextContainer";
+import EcommerceTextContainerCont from '../container/TextContainer/EcommerceTextContainerCont';
 
 const Ecommerce = () => {
     return (
         <React.Fragment>
             <SEO title="QYSA Solutions || Ecommerce" />
             <Header />
-            <ServiceSlider 
-            title="Ecommerce"
-            bgImg="he-3.jpg"/>
-            <EcommerceAbout/>
-            <EcommerceAccordion/>
-            <EcommerceContentCont/>
+            <ServiceSlider
+                title="Ecommerce"
+                tagline="Flexible solutions to meets today’s Omni-channel demands"
+                bgImg="he-3.jpg" />
+            <EcommerceAbout />
+            <EcommerceTextContainer />
+            <EcommerceTextContainerCont />
+            <EcommerceContentCont />
             <ContactInformationThree />
             <Footer />
             <ScrollToTop />

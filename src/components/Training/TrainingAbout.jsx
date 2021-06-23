@@ -24,7 +24,7 @@ const TrainingAbout = () => {
 
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
-                            <div className="row mb-n6">
+                            <div className="row mb-n6 text-center">
                             <p>
                                 We provide workforce solutions serving clients, candidates and Institutes for recruitment and Staffing solutions across industries. We also specialize in training in wide range of technical and non-technical skills which provides industry ready manpower. We continue to work towards providing customers with a complete and integrated. We continue to work towards providing customers with a complete and integrated talent management solution and meet temporary and permanent needs of clients in the respective geographical areas through a cohesive blend of services and expertise in this space.<br/><br/>
                                 We focus on building workforce solutions in specialized industry verticals 

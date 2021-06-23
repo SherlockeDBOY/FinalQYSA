@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import {useEffect, useRef} from "react";
+import { useEffect, useRef } from "react";
 import contactData from '../../data/contactInfo/careerpg.json';
 import SectionTitle from '../../components/SectionTitles/SectionTitle';
 import ContactInfoItem from '../../components/ContactInfo/CareerPG.jsx';
@@ -10,9 +10,9 @@ const ContactInformation = ({ classOption }) => {
     const sceneEl = useRef(null);
     useEffect(() => {
         const parallaxInstance = new Parallax(sceneEl.current, {
-        relativeInput: true,
+            relativeInput: true,
         })
-        
+
         parallaxInstance.enable();
 
         return () => parallaxInstance.disable();
@@ -29,11 +29,11 @@ const ContactInformation = ({ classOption }) => {
 
                 <div className="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mb-n6">
                     {contactData && contactData.map((single, key) => {
-                        return(
+                        return (
                             <div key={key} className="col mb-6" data-aos="fade-up">
                                 <ContactInfoItem data={single} key={key} />
                             </div>
-                        ); 
+                        );
                     })}
                 </div>
 

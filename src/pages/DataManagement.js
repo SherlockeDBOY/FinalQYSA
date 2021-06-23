@@ -15,6 +15,7 @@ const DataManagement = () => {
             <Header />
             <ServiceSlider 
             title="Data Management"
+            tagline="In Today’s world Data management is a key factor in decision making. Companies gather a massive amount of data on things like products, customer, market, transactions etc. In their business endeavour. To mmaintain the flow of data, securing the data, running a quality check on data collected and extracting it can be difficult without the right resources and skills."
             bgImg="he-4.jpg"/>
             <DataManagementAbout/>
             <DataAccordion/>

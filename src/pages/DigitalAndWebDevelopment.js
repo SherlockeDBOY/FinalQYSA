@@ -14,12 +14,12 @@ const DigitalAndWebDevelopment = () => {
         <React.Fragment>
             <SEO title="QYSA Solutions || Digital Marketing And Web Development" />
             <Header />
-            <ServiceSlider 
-            title="Digital Marketing And Web Development"
-            bgImg="he-2.jpg"/>
-            <DigitalMarketingAbout/>
-            <DigitalMarketingContainer/>
-            <WebDevelopmentContainer/>
+            <ServiceSlider
+                title="Digital Marketing And Web Development"
+                bgImg="he-2.jpg" />
+            <DigitalMarketingAbout />
+            <DigitalMarketingContainer />
+            <WebDevelopmentContainer />
             <ContactInformationThree />
             <Footer />
             <ScrollToTop />

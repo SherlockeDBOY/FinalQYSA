@@ -24,7 +24,7 @@ const EventManagement = () => {
 
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
-                            <div className="row mb-n6">
+                            <div className="row mb-n6 text-center">
                             <p>
                             We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
                             We at QYSA Solutions aspire to help businesses expand globally through a variety of creative solutions. We are based in India with associates in five countries around the world. We ensure that our service delivery is quick and efficient while continuously adapting to our clients needs.<br/>

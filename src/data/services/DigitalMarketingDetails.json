@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Search Engine Optimization",
+        "info": "Boost your website traffic by our team of experts through proven SEO strategies. We also provide App Store and E-commerce SEO."
+    },
+    {
+        "id": "2",
+        "title": " Earned Media",
+        "info": "We help our clients to establish their brand through promotional champains and advertisements. Our team provides creative and innovative ways for building your brand."
+    },
+    {
+        "id": "3",
+        "title": "Social Media Marketing",
+        "info": "Want your presence in social media platforms like facebook, Instagram, Twitter, Youtube etc. We got you covered. Our team will design the strategy  which includes the management of a marketing campaign, governance, setting the scope (e.g. more active or passive use) and the establishment of a firm&apos;s desired social media culture and tone."
+    },
+    {
+        "id": "4",
+        "title": "Digital PR",
+        "info": "We have a huge network with journalists, bloggers and social media influencers to promote your product. We also send online press releases to gain high-quality backlinks, social media mentions to improve your SEO."
+    },
+    {
+        "id": "5",
+        "title": "Conversion Rate Optimization (CRO)",
+        "info": "We provide strategies to improve the percentage of website visitors to take a specific action (example, submitting a web form, making a purchase, signing up for a trial, leaving email etc.). Our team of experts will ensure to generate more leads or sales."
+    }
+]

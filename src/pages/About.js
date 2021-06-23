@@ -3,7 +3,7 @@ import SEO from '../components/SEO';
 import Header from "../partials/header/Header";
 import Breadcrumb from '../container/Breadcrumb/Breadcrumb';
 import KnowUsContent from '../container/About/KnowUsContent';
-import Team from '../container/Team/Team';
+// import Team from '../container/Team/Team';
 import Faq from '../container/Faq/Faq';
 import Footer from '../container/Footer/Footer';
 import GridGallery from '../container/Gallery/GridGallery';
@@ -24,7 +24,7 @@ const AboutUs = () => {
             <KnowUsContent/>
             <Faq />
             <GridGallery/>
-            <Team />
+            {/*<Team />*/}
             <Footer />
             <ScrollToTop />
         </React.Fragment>
