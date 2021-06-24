@@ -50,12 +50,11 @@ const HomeAbout = () => {
                     </div>
 
                     <div className="col-xl-5 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
-                        <div className="about-content-area text-center">
-                            <p>We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
+                        <div className="home-content-area text-center">
+                            <p className="">We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
                             We at QYSA Solutions aspire to help businesses expand globally through a variety of creative solutions. We are based in India with associates in five countries around the world. We ensure that our service delivery is quick and efficient while continuously adapting to our clients needs.<br/>
                             We are always looking to strengthen our team further with globally proficient and experienced individuals</p>
-
-                            <Link className="btn btn-primary btn-hover-secondary mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>Know Us</Link>
+                            <Link className="btn btn-primary btn-hover-secondary mx-auto mt-xl-8 mt-lg-8 mt-md-6 mt-4" to={process.env.PUBLIC_URL + "/about"}>Know Us</Link>
                         </div>
                     </div>
 
