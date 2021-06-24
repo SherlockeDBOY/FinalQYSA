@@ -1,42 +1,28 @@
-import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
-import AccordionWrap from '../../components/Accordion/DataAccordionWrap';
-import {useState, useEffect, useRef} from "react";
+import React from 'react';
+import TextBox from '../../components/TextComp/TextBox';
+import textData from '../../data/services/ImportDetails2.json'
 import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
+import { useState, useEffect, useRef } from "react";
 
-
-const DataAccordion = () => {
+const ImportTextContainerCont = () => {
     const [scale] = useState(1.04);
     const sceneEl = useRef(null);
-
     useEffect(() => {
         const parallaxInstance = new Parallax(sceneEl.current, {
-        relativeInput: true,
+            relativeInput: true,
         })
-        
+
         parallaxInstance.enable();
 
         return () => parallaxInstance.disable();
 
     }, [])
     return (
-        <div className="faq-section section section-padding-bottom bg-primary-blue">
+        <div className={`section section-padding-bottom`}>
             <div className="container">
-                <div className="row col-xl-8 col-1">
-                    <SectionTitleTwo 
-                    title="Activate -Send the data to your existing platforms and specifications"
-                    />
-                </div>
-                <div className="row row-cols-lg-12 row-cols-12 mb-n6">
+                <div className="row row-cols-lg-2 row-cols-md-1 row-cols-sm-1 row-cols-1 mb-n6 column-rev-md-flex ">
                     
-                    <div className="col mb-6" data-aos="fade-up">
-                        <div className="faq-content">
-
-                            <AccordionWrap />
-                            
-                        </div>
-                    </div>
-
                     <div className="col mb-6 pl-xl-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-image-area d-flex">
 
@@ -50,11 +36,19 @@ const DataAccordion = () => {
                             </div>
                         </div>
                     </div>
-
+                    <div className="col mb-6" data-aos="fade-up">
+                        {textData && textData.map((single, key) => {
+                            return (
+                                <div key={key} className="col mb-6" data-aos="fade-up">
+                                    <TextBox data={single} key={key} />
+                                </div>
+                            );
+                        })}
+                    </div>
                 </div>
             </div>
         </div>
     )
 }
 
-export default DataAccordion
+export default ImportTextContainerCont

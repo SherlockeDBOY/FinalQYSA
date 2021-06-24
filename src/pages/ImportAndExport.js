@@ -8,7 +8,8 @@ import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import ImportAbout from '../components/ImportAndExport/ImportAbout';
 import ImportCenterCont from '../container/ImportAndExport/ImportCenterCont';
 import ImportContentCont from '../container/ImportAndExport/ImportContentCont';
-import ImportAccordion from '../container/ImportAndExport/ImportAccordion';
+import ImportTextContainer from '../container/TextContainer/ImportTextContainer';
+import ImportTextContainerCont from '../container/TextContainer/ImportTextContainerCont';
 
 const ImportAndExport = () => {
     return (
@@ -20,7 +21,8 @@ const ImportAndExport = () => {
             bgImg="he-1.jpg"/>
             <ImportAbout/>
             <ImportCenterCont/>
-            <ImportAccordion/>
+            <ImportTextContainer/>
+            <ImportTextContainerCont/>
             <ImportContentCont/>
             <ContactInformationThree />
             <Footer />

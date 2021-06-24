@@ -5,11 +5,13 @@ import digitalData from '../../data/services/DigitalMarketingDetails.json';
 
 
 const BulletContainer = () => {
+    
     return (
         <div className="section section-padding-bottom">
             <div className="container">
                 <SectionTitleTwo title="Digital Marketing"/>
-                <div className="row row-cols-xl-2 row-cols-lg-1 row-cols-md-1 row-cols-sm-1 row-cols-1 ">
+
+                <div className="row cols-xl-10 row-cols-lg-1 row-cols-md-1 row-cols-sm-1 row-cols-1 column-rev-md-flex ">
                     <div className="col mb-6" data-aos="fade-up">
                         {digitalData && digitalData.map((single, key) => {
                             return (
@@ -19,6 +21,8 @@ const BulletContainer = () => {
                             );
                         })}
                     </div>
+
+
                 </div>
             </div>
             

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const BulletBlocks = ({data}) => {
     return (
-        <div className="bullet-block">
+        <div className="bullet-block" style={{width: "100%"}}>
             <div className={`bullet-block__icon ${data.dispPara}`}></div>
             <div className="bullet-block__content">
                 <h3>{data.title}</h3>
