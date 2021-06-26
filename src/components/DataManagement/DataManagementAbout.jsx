@@ -31,7 +31,7 @@ const DataManagementAbout = () => {
                         
                             
                             <div className="shape shape-1" id="scene" ref={sceneEl}>
-                                <span data-depth="1"><img src={process.env.PUBLIC_URL + "images/shape-animation/about-shape-1.png"} alt="" /></span>
+                                <span data-depth="1"><img src={process.env.PUBLIC_URL + "images/shape-animation/video-shape-1.png"} alt="" /></span>
                             </div>
 
                         </div>
@@ -39,12 +39,8 @@ const DataManagementAbout = () => {
 
                     <div className="about-content-full d-flex my-auto align-items-center justify-content-center col-xl-7 col-lg-7 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="text-center">
-                            {/*<SectionTitleTwo 
-                                subTitle=""
-                                title="Know Us"
-                            />*/}
-
                             <p>
+                            In Today’s world Data management is a key factor in decision making. Companies gather a massive amount of data on things like products, customer, market, transactions etc. In their business endeavour. To mmaintain the flow of data, securing the data, running a quality check on data collected and extracting it can be difficult without the right resources and skills.<br/>
                             QYSA provides Data Management Solutions that help companies to collect data of any type, from any source and structure to make it simple, accurate and accessible. Our team of experts will implement and customize industry standard software to produce desired results for our clients. 
                             </p>
 

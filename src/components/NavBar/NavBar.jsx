@@ -8,16 +8,7 @@ const NavBar = () => {
                 <li >
                     <NavLink to={process.env.PUBLIC_URL}><span className="menu-text">Home</span></NavLink>
                 </li>
-                <li className="has-children">
-                    <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">Know Us</span></NavLink>
-                    <span className="menu-toggle"><i className="far fa-angle-down"></i></span>
-                    <ul className="sub-menu">
-                        <li><NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">About Us</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Vision</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Team</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + `/about`}><span className="menu-text">Our Partners</span></NavLink></li>
-                    </ul>
-                </li>
+                
                 <li className="has-children">
                     <NavLink to={process.env.PUBLIC_URL + "/service"}><span className="menu-text">Services</span></NavLink>
                     <span className="menu-toggle"><i className="far fa-angle-down"></i></span>
@@ -29,6 +20,9 @@ const NavBar = () => {
                         <li><NavLink to={process.env.PUBLIC_URL + `/data-management`}><span className="menu-text">Data Management</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/event-management`}><span className="menu-text">Event Management/ <br/>  Manpower</span></NavLink></li>
                     </ul>
+                </li>
+                <li >
+                    <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">Know Us</span></NavLink>
                 </li>
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/contact"}><span className="menu-text">Connect</span></NavLink>

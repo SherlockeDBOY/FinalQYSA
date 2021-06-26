@@ -32,9 +32,7 @@ const ProjectForm = () => {
                     <option>Import and Export</option>
                     <option>Ecommerce</option>
                     <option>Digital Marketing and Website Development</option>
-                    <option>Cybersecurity</option>
                     <option>Data Management</option>
-                    <option>Blockchain</option>
                     <option>Event Management / Manpower</option>
                 </select>
                 </div>

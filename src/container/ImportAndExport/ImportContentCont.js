@@ -2,7 +2,7 @@ import React from 'react'
 
 const ImportContentCont = () => {
     return (
-        <div className="video-section section section-padding-t110-b120">
+        <div className="video-section section section-padding-bottom">
             <div className="container">
                 <div className="row">
 
@@ -11,8 +11,9 @@ const ImportContentCont = () => {
                             <p className="fz-32">
                             Our extensive library of well-researched articles about incorporating and running a Indian company is always available to you. Learn before you act.
                             <br/><br/>
-                            We gain your trust the hard way.
+                            
                             </p>
+                            <h5>We gain your trust the hard way.</h5>
 
                         </div>
                     </div>

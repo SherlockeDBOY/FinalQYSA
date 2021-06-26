@@ -2,20 +2,21 @@ import React from 'react';
 import IntroData from '../../data/intro/intro.json';
 import Intro from '../../components/Intro/Intro.jsx';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import SwiperCore, { Navigation } from 'swiper';
+import SwiperCore, { Navigation , Autoplay } from 'swiper';
 import 'swiper/swiper.scss';
 import 'swiper/components/navigation/navigation.scss';
 
 SwiperCore.use([Navigation]);
+SwiperCore.use([Autoplay]);
 
 const IntroSlider =  () => {
     const swiperOption = {
         loop: true,
-        speed: 750,
+        speed: 2750,
         spaceBetween: 0,
         slidesPerView: 1,
         autoplay: {
-            delay: 2500,
+            delay: 8500,
             disableOnInteraction: false,
         },
         navigation: {

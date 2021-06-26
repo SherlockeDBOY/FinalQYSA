@@ -1,19 +1,19 @@
 import {Fragment, useState, useEffect} from "react";
 import Logo from '../../components/logo/Logo';
 import NavBar from '../../components/NavBar/NavBar';
-import HeaderSearch from '../../components/HeaderSearch/HeaderSearch';
+// import HeaderSearch from '../../components/HeaderSearch/HeaderSearch';
 import MobileMenu from "../../components/NavBar/MobileMenu"
-import MainSearch from "../../components/NavBar/MainSearch"
+// import MainSearch from "../../components/NavBar/MainSearch"
 
 const Header = () => {
     const [ofcanvasShow, setOffcanvasShow] = useState(false);
     const onCanvasHandler = () => {
         setOffcanvasShow(prev => !prev);
     }
-    const [searchbarShow, setSearchbarShow] = useState(false);
-    const onSearchHandler = () => {
-        setSearchbarShow(prev => !prev);
-    }
+    // const [searchbarShow, setSearchbarShow] = useState(false);
+    // const onSearchHandler = () => {
+    //     setSearchbarShow(prev => !prev);
+    // }
     const [scroll, setScroll] = useState(0);
     const [headerTop, setHeaderTop] = useState(0);
 
@@ -42,14 +42,15 @@ const Header = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
                                 />
                             </div>
-                            <div className="col-auto col-xl d-flex align-items-center justify-content-xl-center justify-content-end order-2 order-xl-1">
+                            {/*<div className="col-auto col-xl d-flex align-items-center justify-content-xl-center justify-content-end order-2 order-xl-1">*/}
+                            <div className="col-auto col-xl d-flex align-items-center justify-content-end order-2 order-xl-1">
                                 <div className="menu-column-area d-none d-xl-block position-static">
                                     <NavBar />
                                 </div>
-                                <div className="header-search-area ml-xl-7 ml-0">
+                                {/*<div className="header-search-area ml-xl-7 ml-0">
 
                                     <HeaderSearch onClick={onSearchHandler}/>
-                                </div>
+                                </div>*/}
 
                                 <div className="header-mobile-menu-toggle d-xl-none ml-sm-2">
                                     <button type="button" className="toggle" onClick={onCanvasHandler}>
@@ -66,7 +67,7 @@ const Header = () => {
                 </div>
             </div>
             <MobileMenu show={ofcanvasShow} onClose={onCanvasHandler}/>
-            <MainSearch show={searchbarShow} onClose={onSearchHandler}/>
+            {/*<MainSearch show={searchbarShow} onClose={onSearchHandler}/>*/}
         </Fragment>
     )
 }

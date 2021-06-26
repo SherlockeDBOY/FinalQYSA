@@ -1,23 +1,24 @@
-import React, { useEffect, useRef } from "react";
+// import React, { useEffect, useRef } from "react";
+import React from "react";
 import contactDataTwo from '../../data/contactInfo/contactInfoTwo.json';
 import ContactInfoItem from '../../components/ContactInfo/ContactInfoItemTwo.jsx';
 import SectionTitle from '../../components/SectionTitles/SectionTitle';
 import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo.jsx';
 import ProjectForm from '../../components/ProjectForm/ProjectForm';
-import Parallax from 'parallax-js';
+// import Parallax from 'parallax-js';
 
 const ContactInformationThree = () => {
-    const sceneEl = useRef(null);
-    useEffect(() => {
-        const parallaxInstance = new Parallax(sceneEl.current, {
-        relativeInput: true,
-        })
+    // const sceneEl = useRef(null);
+    // useEffect(() => {
+    //     const parallaxInstance = new Parallax(sceneEl.current, {
+    //     relativeInput: true,
+    //     })
         
-        parallaxInstance.enable();
+    //     parallaxInstance.enable();
 
-        return () => parallaxInstance.disable();
+    //     return () => parallaxInstance.disable();
 
-    }, [])
+    // }, [])
     return (
         <div className="section section-padding contact-section overlay-two" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/bg/contact-bg.jpg)`}}>
 
@@ -55,11 +56,11 @@ const ContactInformationThree = () => {
                 </div>
             </div>
 
-            <div className="shape shape-1" id="scene" ref={sceneEl}>
+            {/*<div className="shape shape-1" id="scene" ref={sceneEl}>
                 <span data-depth="1">
                     <img src={process.env.PUBLIC_URL + "images/shape-animation/newsletter-shape.png"} alt="" />
                 </span>
-            </div>
+            </div>*/}
 
         </div>
     )

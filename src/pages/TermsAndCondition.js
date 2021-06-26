@@ -19,8 +19,8 @@ const TermsAndCondition = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bgb.jpg"
-                title="Welcome to QYSA SOLUTIONS"
-                desc="These terms of service outline the rules and regulations for the use of QYSA SOLUTIONS`&apos;`s Website."
+                title="Terms and Conditions"
+                desc=""
                 position="bottom"
                 size="cover"
             />

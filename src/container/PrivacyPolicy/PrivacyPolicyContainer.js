@@ -7,14 +7,14 @@ const PrivacyPolicyContainer = () => {
                 <div className="row mt-lg-20 mt-12">
                     <div className="col-lg-4 col-md-12 col-12">
                         <div className="digital-marketing" data-aos="fade-up">
-                            <h3 className="heading heading-h3"></h3>
+                            <h3 className="heading heading-h3">Effective Date: 15-06-2021</h3>
                         </div>
                     </div>
                     <div className="col-lg-7 col-md-12 col-12 offset-lg-1">
                         <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                             <div className="inner">
                                 <p>
-                                Effective Date: 15-06-2021
+                                
                                 </p>
                             </div>
                         </div>

@@ -7,6 +7,22 @@ const RefundContainer = () => {
                 <div className="row mt-lg-20 mt-12">
                     <div className="col-lg-4 col-md-12 col-12">
                         <div className="digital-marketing" data-aos="fade-up">
+                            <h5 className="heading heading-h5">Last updated: June 14, 2021</h5>
+                        </div>
+                    </div>
+                    <div className="col-lg-7 col-md-12 col-12 offset-lg-1">
+                        <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
+                            <div className="inner">
+                                <p>
+                                
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="row mt-lg-20 mt-12">
+                    <div className="col-lg-4 col-md-12 col-12">
+                        <div className="digital-marketing" data-aos="fade-up">
                             <h3 className="heading heading-h3">Return and Refund Policy</h3>
                         </div>
                     </div>
@@ -14,7 +30,7 @@ const RefundContainer = () => {
                         <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                             <div className="inner">
                                 <p>
-                                Last updated: June 14, 2021
+                                
                                 </p>
                             </div>
                         </div>

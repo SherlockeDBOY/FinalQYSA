@@ -6,8 +6,25 @@
         "desc": "Our training & placement program includes aptitude tests and technical skill training. These are crucial skills that we develop for the students that consult us for placements.",
         "pageLink": "Learn More",
         "link": "/training-and-placement"
-    },{
+    },
+    {
         "id": "2",
+        "icon": "images/svg/linea/Datamanagement.svg",
+        "title": "Data Management",
+        "desc": "We have contextual and demographic data from over 40 suppliers. Discover, manage and use these data and the robust analytics they provide.",
+        "pageLink": "Learn More",
+        "link": "/data-management"
+        
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/EventManagement.svg",
+        "title": "Event Management/Workforce",
+        "desc": "With almost five years of experience in the field, we can create exceptional events for you. We handle all the aspects of the event, from designing to execution. ",
+        "pageLink": "Learn More",
+        "link": "/event-management"
+    },{
+        "id": "4",
         "icon": "images/svg/linea/Import&Export.svg",
         "title": "Import and Export",
         "desc": "Our technology-driven service model consists of a fully online platform to manage your business. It is easy to use and facilitates coordination between all the parties involved. ",
@@ -15,29 +32,12 @@
         "link": "/import-and-export"
     },
     {
-        "id": "3",
+        "id": "5",
         "icon": "images/svg/linea/cybersecurity.svg",
         "title": "Cyber-Security",
         "desc": "Our integrated solutions for Dark Web monitoring helps to find your data. We have fully automated solutions that protect you from various digital risks and hazards.",
         "pageLink": "Learn More",
         "link": "/our-services"
-    },
-    
-    {
-        "id": "4",
-        "icon": "images/svg/linea/EventManagement.svg",
-        "title": "Event Management/Workforce",
-        "desc": "With almost five years of experience in the field, we can create exceptional events for you. We handle all the aspects of the event, from designing to execution. ",
-        "pageLink": "Learn More",
-        "link": "/event-management"
-    },
-    {
-        "id": "5",
-        "icon": "images/svg/linea/DigitalMarketing.svg",
-        "title": "Digital Marketing and Website Development",
-        "desc": "We specialise in branding and web development and have marketing experience with Fortune 500 companies and iconic brands. We can promote your brands...",
-        "pageLink": "Learn More",
-        "link": "/digital-marketing"
     },
     {
         "id": "6",
@@ -47,14 +47,13 @@
         "pageLink": "Learn More",
         "link": "/ecommerce"
     },
-    
     {
         "id": "7",
-        "icon": "images/svg/linea/Datamanagement.svg",
-        "title": "Data Management",
-        "desc": "We have contextual and demographic data from over 40 suppliers. Discover, manage and use these data and the robust analytics they provide.",
+        "icon": "images/svg/linea/DigitalMarketing.svg",
+        "title": "Digital Marketing and Website Development",
+        "desc": "We specialise in branding and web development and have marketing experience with Fortune 500 companies and iconic brands. We can promote your brands...",
         "pageLink": "Learn More",
-        "link": "/data-management"
+        "link": "/digital-marketing"
     },
     {
         "id": "8",

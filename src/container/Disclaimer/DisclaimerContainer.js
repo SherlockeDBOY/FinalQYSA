@@ -7,6 +7,23 @@ const DisclaimerContainer = () => {
                     <div className="row mt-lg-20 mt-12">
                         <div className="col-lg-4 col-md-12 col-12">
                             <div className="digital-marketing" data-aos="fade-up">
+                                <h5 className="heading heading-h5">Last Updated: 15-06-2021 </h5>
+                            </div>
+                        </div>
+                        <div className="col-lg-7 col-md-12 col-12 offset-lg-1">
+                            <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
+                                <div className="inner">
+                                    <p>
+                                    
+                                    
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row mt-lg-20 mt-12">
+                        <div className="col-lg-4 col-md-12 col-12">
+                            <div className="digital-marketing" data-aos="fade-up">
                                 <h3 className="heading heading-h3">Introduction</h3>
                             </div>
                         </div>
@@ -14,9 +31,6 @@ const DisclaimerContainer = () => {
                             <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                                 <div className="inner">
                                     <p>
-                                    Last Updated: 15-06-2021 
-                                    <br/>
-                                    <br/>
                                     The information provided by QYSA SOLUTIONS (&quot;We,&quot; &quot;Us&quot; or &quot;Our&quot;) on www.qysasolutions.com (the &quot;Website&quot;) is for general informational purposes only. All information on the Website is provided in good faith, however, We make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Website.<br/><br/>
                                     Under no circumstance shall We have any liability to You for any loss or damage of any kind incurred as a result of the use of the Website or reliance on any information provided on the Website. Your use of the Website and Your reliance on any information on the Website is solely at Your own risk.
                                     </p>
