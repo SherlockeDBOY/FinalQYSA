@@ -8,7 +8,7 @@ const EcommerceContentCont = () => {
 
                     <div className="col-lg-10 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
                         <div className="about-content-full text-center  mb-lg-10 mb-0">
-                        <h2 className=" text-center my-10" style={{color:"black"}}>Ecommerce Tools</h2>
+                        <h2 className=" text-center my-10" style={{color:"black"}}>Our platform offers</h2>
                             <div className="d-flex col-lg-10 mx-auto justify-content-evenly mb-10">
                                 <ul style={{padding:"0"}} className="font-17">
                                     <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Beautiful Online Store</li>
@@ -22,7 +22,7 @@ const EcommerceContentCont = () => {
                                 </ul>
                             </div>
                             <p className="font-18">
-                            We are the Best E-Commerce Development Company. With our Vision of Beautiful, Fast and Robust E-Commerce Web Designing for each Business, we improve e-following for Indian merchants by giving them start to finish solutions loaded with latest features, for exhibiting their products on the web and sell online.
+                            With our vision, we can create a fast, robust and beautiful E-commerce website platform for any business. We also improve e-following for Indian merchants by giving them start to finish solutions loaded with the latest features, for exhibiting their products on our platform.
                             </p>
 
                         </div>
@@ -74,7 +74,7 @@ const EcommerceContentCont = () => {
                         </div>
                         <div className="about-content-full text-center my-15 mb-lg-10 mb-0">
                             <p className="font-18">
-                            QYSA purpose is to help people across the world lead healthier and happier lives. The company is proud to be a force for good through its contributions to healthy communities, a healthy planet, an inclusive workplace and a sustainable marketplace. We’re making this a reality through our core values, company vision and brand purpose.
+                            QYSA&apos;s purpose is to help people across the world lead healthier and happier lives. The company is proud to be a force of good through its contributions. We contribute towards making healthy communities, a healthy planet, an inclusive workplace and a sustainable marketplace. We’re making this a reality through our core values, company vision and brand purpose.
                             </p>
                         </div>
                     </div>

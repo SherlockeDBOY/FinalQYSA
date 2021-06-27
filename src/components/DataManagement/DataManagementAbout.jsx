@@ -40,8 +40,10 @@ const DataManagementAbout = () => {
                     <div className="about-content-full d-flex my-auto align-items-center justify-content-center col-xl-7 col-lg-7 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="text-center">
                             <p className="font-18">
-                            In Today’s world Data management is a key factor in decision making. Companies gather a massive amount of data on things like products, customer, market, transactions etc. In their business endeavour. To mmaintain the flow of data, securing the data, running a quality check on data collected and extracting it can be difficult without the right resources and skills.<br/>
-                            QYSA provides Data Management Solutions that help companies to collect data of any type, from any source and structure to make it simple, accurate and accessible. Our team of experts will implement and customize industry standard software to produce desired results for our clients. 
+                            In today’s world, Data Management is a crucial factor in decision making. Companies gather a massive amount of data on products, customers, markets and transactions in their business endeavour. Maintaining data flow, securing data, running quality checks on data collected and extracting it can be tedious without the right resources and skills.<br/><br/>
+                            
+                            QYSA provides Data Management Solutions that help companies collect data of any type and from any source and structure to make it simple, accurate and accessible. Our team of experts will implement and customize industry-standard solutions to produce desired results for our clients.
+
                             </p>
 
                         </div>

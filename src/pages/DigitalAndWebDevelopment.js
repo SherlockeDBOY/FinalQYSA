@@ -8,6 +8,7 @@ import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import DigitalMarketingAbout from '../components/DigitalMarketing/DigitalMarketingAbout';
 import WebDevelopmentContainer from '../container/DigitalMarketing/WebDevelopmentContainer';
 import BulletContainer from '../container/DigitalMarketing/BulletContainer';
+import WebDesign from '../container/DigitalMarketing/WebDesign';
 
 const DigitalAndWebDevelopment = () => {
     return (
@@ -16,9 +17,11 @@ const DigitalAndWebDevelopment = () => {
             <Header />
             <ServiceSlider
                 title="Digital Marketing And Web Development"
+                tagline="Want to become a social sensation like the Fortune 500? We’ve got you covered."
                 bgImg="he-2.jpg" />
             <DigitalMarketingAbout />
             <BulletContainer/>
+            <WebDesign/>
             <WebDevelopmentContainer />
             <ContactInformationThree />
             <Footer />

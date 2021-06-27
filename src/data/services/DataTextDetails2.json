@@ -1,0 +1,14 @@
+[
+    {
+        "id": "4",
+        "dispPara":"",
+        "title": "Data Governance",
+        "info": " Our personnel provide solutions needed to implement policies and procedures to ensure data availability, security, integrity and usability. It includes data stewardship, data quality, master data management and data governance use cases."
+    },
+    {
+        "id": "5",
+        "dispPara":"",
+        "title": "Data Analysis",
+        "info": " Our data analytics services help you to discover valuable information that support decision-making."
+    }
+]

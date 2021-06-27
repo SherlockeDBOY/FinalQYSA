@@ -3,102 +3,72 @@
         "id": "1",
         "dispPara":"",
         "title": "Search Engine Optimization",
-        "info": "Boost your website traffic by our team of experts through proven SEO strategies. We also provide App Store and E-commerce SEO."
+        "info": ": Our team of experts will provide you with reliable SEO strategies that will boost your website traffic. We also provide App Store and E-commerce SEO."
     },
     {
         "id": "2",
         "dispPara":"",
-        "title": " Earned Media",
-        "info": "We help our clients to establish their brand through promotional champains and advertisements. Our team provides creative and innovative ways for building your brand."
+        "title": "Earned Media",
+        "info": "Our specialists help our clients to establish their brand through promotional campaigns and advertisements. Our team provides creative and innovative ways for building your brand."
     },
     {
         "id": "3",
         "dispPara":"",
         "title": "Social Media Marketing",
-        "info": "Want your presence in social media platforms like facebook, Instagram, Twitter, Youtube etc. We got you covered. Our team will design the strategy  which includes the management of a marketing campaign, governance, setting the scope (e.g. more active or passive use) and the establishment of a firm&apos;s desired social media culture and tone."
+        "info": "If you want a strong presence on social media platforms like Facebook, Instagram, Twitter and Youtube, we can help you. Our team will design a strategy that includes: management of a marketing campaign, governance, setting the scope (e.g. more active or passive use) and the establishment of a firm's desired social media culture and tone."
     },
     {
         "id": "4",
         "dispPara":"",
         "title": "Digital PR",
-        "info": "We have a huge network with journalists, bloggers and social media influencers to promote your product. We also send online press releases to gain high-quality backlinks, social media mentions to improve your SEO."
+        "info": "Our network includes journalists, bloggers and social media influencers who will promote your product. We also send online press releases to gain high-quality backlinks, social media mentions to improve your SEO."
     },
     {
         "id": "5",
         "dispPara":"",
         "title": "Conversion Rate Optimization (CRO)",
-        "info": "We provide strategies to improve the percentage of website visitors to take a specific action (example, submitting a web form, making a purchase, signing up for a trial, leaving email etc.). Our team of experts will ensure to generate more leads or sales."
+        "info": "Our professionals provide strategies to improve the percentage of website visitors to take a specific action (for example, submitting a web form, making a purchase, signing up for a trial, leaving email, etc.). Our team of experts will help you generate more leads or sales. "
     },
     {
         "id": "6",
         "dispPara":"",
         "title": "Amazon Marketing",
-        "info": "We provides strategies to promote and increase your product sale on Amazon. Our team will optimize your product page to improve your visibility in Amazon’s organic search. Use native Amazon advertising formats to endorse brands and product and will use use promo channels not offered by amazon."
+        "info": "Amazon is a great place to promote your product and increase sales. We provide strategies to push your product on Amazon. Our team will optimize your product page to improve your visibility on Amazon’s organic search. Using native Amazon advertising formats, we endorse brands and products. We also use promo channels that are not offered directly by Amazon’s platform."
     },
     {
         "id": "7",
         "dispPara":"",
         "title": "Paid Media",
-        "info": " We can promote your content through sponsored social media posts, display ads, paid search results, video ads, pop-ups, and other promoted multimedia. "
+        "info": " Our company can promote your content through sponsored social media posts, Google display ads, paid search results, video ads, pop-ups, TV ads, radio ads and other promoted multimedia."
     },
     {
         "id": "8",
-        "dispPara":"disp_para",
-        "title": "Paid Search Management",
-        "info": ""
+        "dispPara":"",
+        "title": "Offline Conversion Tracking",
+        "info": "Our experts provide solutions to track sales generated from Google Ads, key mid-funnel offline conversions such as phone calls, form submissions and downloads. Our lead generation strategies include searching for high-quality leads and converting them into loyal customers."
     },
     {
         "id": "9",
-        "dispPara":"disp_para",
-        "title": "Google Display Advertising",
-        "info": ""
+        "dispPara":"",
+        "title": "Email Marketing /SMS Marketing/ Push Notification ",
+        "info": "We can promote your product through blasting Emails, SMS and browser notifications to interested customers."
     },
     {
         "id": "10",
-        "dispPara":"disp_para",
-        "title": "Paid Social Advertising",
-        "info": ""
+        "dispPara":"",
+        "title": "Results-Driven Strategy Development",
+        "info": "Our crew's primary focus is to achieve and actualise your goal. We ensure that our efficiency is not held back by the budget. Our market strategies are focused on making the best use of the available funds."
     },
     {
         "id": "11",
         "dispPara":"",
-        "title": "Offline Conversion Tracking",
-        "info": " We provide solutions to better track both offline sales generated from Google Ads and other important mid-funnel offline conversions such as phone calls, form submissions, downloads, and so on. Our lead generation strategy includes searching for high-quality leads and converting them into loyal customers."
+        "title": "Behaviourally-Triggered & Data-Driven Automation",
+        "info": "We provide market automation solutions with custom workflows that execute desired actions when someone displays a specific behaviour. "
     },
     {
         "id": "12",
         "dispPara":"",
-        "title": "Results-Driven Strategy Development",
-        "info": "We provide market strategies which focuses on adjusting budgets to make more funds available than focusing on a cost and efficiency of the marketing."
-    },
-    {
-        "id": "13",
-        "dispPara":"",
-        "title": "Email & SMS List Growth Service",
-        "info": "We can promote your product through blasting Emails and SMS to the interested customers."
-    },
-    {
-        "id": "14",
-        "dispPara":"",
-        "title": "Behaviorally-Triggered & Data-Driven Automation",
-        "info": "We provide market automation solutions with custom workflows that execute desired actions when someone displays a specific behaviour. Ex-  email  and SMS after the purchase"
-    },
-    {
-        "id": "15",
-        "dispPara":"disp_para",
-        "title": "Cohesive Campaign Planning & Executiong",
-        "info": ""
-    },
-    {
-        "id": "16",
-        "dispPara":"disp_para",
-        "title": "Cross-Device Design",
-        "info": ""
-    },
-    {
-        "id": "17",
-        "dispPara":"disp_para",
-        "title": "Advanced Analytics & Optimization",
-        "info": ""
+        "title": "Cohesive Campaign Planning & Execution",
+        "info": "Our team excels at effective planning and smooth execution. These are essential for any campaign, and we make it possible."
     }
 ]

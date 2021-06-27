@@ -40,8 +40,9 @@ const DigitalMarketingAbout = () => {
                         <div className="about-content-full d-flex my-auto  mt-0 mb-md-10 mb-10 align-items-center justify-content-center" style={{height:"100%"}}>
                             <div className=" row mb-n6 text-center" >
                             <p className="font-18 my-auto" style={{ lineHeight:"2"}}>
-                            The number of online users as well as their digital consumption has increased exponentially in last decade due to more accessible and affordable technologies. Because of that, the internet has too many websites competing for the customers attention at the same time. To be noticed and recognized you have to stand out from the competition. But how can you achieve that?<br/><br/>
-                            This is where come in. With our team of experts we can cater to your digital marketing and website development needs. We provide specific services , as well as packaged or costumes services. Whichever is more relevant to your company and your desires we will provide solutions. 
+                            In the past decade, technology has become more accessible and affordable. It has led to an exponential increase in the number of online users and their digital consumption. The internet has too many websites competing for the customers’ attention at the same time. To be noticed and recognized, you have to stand out from the competition. But how can you achieve that?<br/><br/>
+                            This is where we come in. Our team of experts can cater to your digital marketing and website development needs. We provide specific services, as well as packaged and customized services. We will provide solutions that are more relevant to your company.
+                            
                             </p>
                             </div>
                         </div>

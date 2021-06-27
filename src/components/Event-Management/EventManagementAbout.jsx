@@ -26,9 +26,13 @@ const EventManagement = () => {
                     <div className="about-content-full d-flex my-auto  mt-0 mb-md-10 mb-10 align-items-center justify-content-center" style={{height:"100%"}}>
                         <div className=" row mb-n6 text-center" >
                         <p className="font-18 my-auto" style={{lineHeight:"2"}}>
-                        We are a young team of talents that believe transparency and honesty are central to providing service - relationship building with our client is our prime objective.<br/><br/>
-                            We at QYSA Solutions aspire to help businesses expand globally through a variety of creative solutions. We are based in India with associates in five countries around the world. We ensure that our service delivery is quick and efficient while continuously adapting to our clients needs.<br/>
-                            We are always looking to strengthen our team further with globally proficient and experienced individuals
+                        We specialise in the creation of exceptional events for private and corporate clients. We design, plan and manage every project from conception to execution.<br/><br/>
+
+                        Our seasoned professionals possess a good sense of discipline and know its importance in materialising breakthrough ideas. <br/><br/>
+
+                        At QYSA Events, we believe that there is a sublime connection between the mastery of logistics and the creation of astonishment. <br/>
+                        Our events are completely customised, reflecting the brand personality of each client. Whether we act for a family, a product, a company or a cause, our work embraces the experience that integrates innovative design with the finest. It could be wine and cocktails, dining, music, entertainment and—most important of all—that intangible element of surprise.
+
                         </p>
                         </div>
                     </div>

@@ -26,7 +26,7 @@ const ImportAbout = () => {
                         <div className="about-content-full d-flex my-auto  mt-0 mb-md-10 mb-10 align-items-center justify-content-center" style={{height:"100%"}}>
                             <div className=" row mb-n6 text-center" >
                             <p className="font-18 my-auto" style={{lineHeight:"2"}}>
-                            We are merchant exporters of varies products like textile, clothing etc. We provide services to our customers where they can customize quality, size, type etc on bulk orders. Packaging and labelling are provided according to the client’s requirements of barcoding, labelling etc. We also provide solutions to facilitate the smooth trading between the buyer and the seller. 
+                            We are merchant exporters of various products like textile, clothing, etc. Our service allows our customers to select the quality, size and type when they order in bulk. Packaging and labelling are provided according to the client’s requirements of barcoding, labelling, etc. We also provide solutions to facilitate smooth trading between the buyer and the seller.
                             </p>
                             </div>
                         </div>

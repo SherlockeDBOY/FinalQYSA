@@ -9,6 +9,7 @@ import ContactInformationThree from '../container/ContactInformation/ContactInfo
 import EventLinks from '../container/Event-Management/EventLinks';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import EventAboutCont from '../container/Event-Management/EventAboutCont';
+import EventBulletContainer from '../container/Event-Management/EventBulletContainer';
 
 
 
@@ -19,9 +20,11 @@ const EventManagement = () => {
             <Header />
             <ServiceSlider 
             title="Event Management"
+            tagline="Your one stop-shop for everything you need for your next awesome event."
             bgImg="he-2.jpg"/>
             <EventManagementAbout />
             <EventLinks />
+            <EventBulletContainer/>
             <EventAboutCont/>
             <ContactInformationThree />
             <Footer />

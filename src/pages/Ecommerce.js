@@ -9,6 +9,8 @@ import EcommerceAbout from '../components/Ecommerce/EcommerceAbout';
 import EcommerceContentCont from '../container/Ecommerce/EcommerceContentCont';
 import EcommerceTextContainer from "../container/TextContainer/EcommerceTextContainer";
 import EcommerceTextContainerCont from '../container/TextContainer/EcommerceTextContainerCont';
+import EcommerceList from '../container/Ecommerce/EcommerceList';
+
 
 const Ecommerce = () => {
     return (
@@ -17,11 +19,12 @@ const Ecommerce = () => {
             <Header />
             <ServiceSlider
                 title="Ecommerce"
-                tagline="Flexible solutions to meets today’s Omni-channel demands"
+                tagline="Fast and flexible solutions to meet today’s omni-channel demands."
                 bgImg="he-3.jpg" />
             <EcommerceAbout />
             <EcommerceTextContainer />
             <EcommerceTextContainerCont />
+            <EcommerceList/>
             <EcommerceContentCont />
             <ContactInformationThree />
             <Footer />

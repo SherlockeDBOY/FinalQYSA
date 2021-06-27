@@ -17,6 +17,7 @@ const TrainingAndPlacement = () => {
             <Header />
             <ServiceSlider 
             title="Training and Placement"
+            tagline="You are just one step away from landing your dream job."
             bgImg="he-1.jpg"/>
             <TrainingAbout/>
             <Portfolio/>

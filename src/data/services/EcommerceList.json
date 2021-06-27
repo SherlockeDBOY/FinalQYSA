@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        
+        "list": [
+            {
+            "id": 1,
+            "text": "Mobiles, Computers"
+            
+            },
+            {
+            "id": 2,
+            "text": "TV, Appliances"
+            
+            },
+            {
+            "id": 3,
+            "text": "Electronics"
+            
+            },
+            {
+            "id": 4,
+            "text": "Men's Fashion"
+            
+            },
+            {
+            "id": 5,
+            "text": "Women's Fashion"
+            
+            },
+            {
+            "id": 6,
+            "text": "Kids' Fashion"
+            
+            },
+            {
+            "id": 7,
+            "text": "Home Kitchen"
+            
+            },
+            {
+            "id": 8,
+            "text": "Pets products"
+            
+            }
+        ]
+    },
+    {
+        "id": 2,
+        
+        "list": [
+            
+            {
+            "id": 9,
+            "text": "Beauty"
+            
+            },
+            {
+            "id": 10,
+            "text": "Health"
+            
+            },
+            {
+            "id": 11,
+            "text": "Grocery"
+            
+            },
+            {
+            "id": 12,
+            "text": "Sports, Fitness"
+            
+            },
+            {
+            "id": 13,
+            "text": "Bags"
+            
+            },
+            {
+            "id": 14,
+            "text": "Luggage"
+            
+            }
+            ,
+            {
+            "id": 15,
+            "text": "Toys, Baby Products"
+            
+            },
+            {
+            "id": 16,
+            "text": "Books"
+            
+            }
+        ]
+    }
+]

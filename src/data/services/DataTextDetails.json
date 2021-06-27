@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "dispPara":"",
+        "title": "Data Mining",
+        "info": "Our professionals can detect useful patterns in databases that lead to better and efficient business decisions."
+    },
+    {
+        "id": "2",
+        "dispPara":"",
+        "title": "Data Integration",
+        "info": "We provide services to combine data from different sources and structure it into meaningful and valuable information. "
+    },
+    {
+        "id": "3",
+        "dispPara":"",
+        "title": "Data Scanning",
+        "info": "It involves identifying data assets, sensitive data and understanding how data is used."
+    }
+]

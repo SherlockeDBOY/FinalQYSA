@@ -5,120 +5,37 @@
         "list": [
             {
             "id": 1,
-            "text": "PRINT & GRAPHIC DESIGN "
+            "text": "Annual Corporate Meets "
             
             },
             {
             "id": 2,
-            "text": "DECOR DESIGN & FABRICATION"
+            "text": "Launches And Exhibitions"
             
             },
             {
             "id": 3,
-            "text": "LIGHTING DESIGN & PRODUCTION"
+            "text": "Staff And Family Fun Days"
             
             },
             {
             "id": 4,
-            "text": "TABLE DESIGN & EXECUTION"
+            "text": "Team Building"
             
             },
             {
             "id": 5,
-            "text": "FLORAL DESIGN & INSTALLATION"
-            
-            }
-        ]
-    },
-    {
-        "id": 2,
-        
-        "list": [
-            {
-            "id": 1,
-            "text": "SOUND DESIGN"
+            "text": "Corporate Gifts / Souvenirs"
             
             },
             {
-            "id": 2,
-            "text": "INVITATION & RSVP MANAGEMENT"
+            "id": 6,
+            "text": "TR&R / Award Ceremonies"
             
             },
             {
-            "id": 3,
-            "text": "CRITICAL PATH DEVELOPMENT"
-            
-            },
-            {
-            "id": 4,
-            "text": "VENDOR CONTRACT NEGOTIATION"
-            
-            },
-            {
-            "id": 5,
-            "text": "CATERING CONSULTATION"
-            
-            }
-        ]
-    },
-    {
-        "id": 3,
-        
-        "list": [
-            {
-            "id": 1,
-            "text": "EVENT STAFFING"
-            
-            },
-            {
-            "id": 2,
-            "text": "MEDIA RELATIONS"
-            
-            },
-            {
-            "id": 3,
-            "text": "SPONSORSHIP MANAGEMENT"
-            
-            },
-            {
-            "id": 4,
-            "text": "TALENT PROCUREMENT"
-            
-            },
-            {
-            "id": 5,
-            "text": "VIDEO PRODUCTION MANAGEMENT"
-            
-            }
-        ]
-    },
-    {
-        "id": 4,
-        
-        "list": [
-            {
-            "id": 1,
-            "text": "BUDGET DEVELOPMENT"
-            
-            },
-            {
-            "id": 2,
-            "text": "HOSPITALITY & TRAVEL"
-            
-            },
-            {
-            "id": 3,
-            "text": "PROTOCOL & CONCIERGE ACTIVATION"
-            
-            },
-            {
-            "id": 4,
-            "text": "TOTAL EVENT LOGISTICS"
-            
-            },
-            {
-            "id": 5,
-            "text": " MULTIMEDIA PRODUCTION MANAGEMENT "
+            "id": 7,
+            "text": "Corporate Films / Media Coverage"
             
             }
         ]

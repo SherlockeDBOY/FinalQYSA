@@ -7,7 +7,7 @@ import ContactInformationThree from '../container/ContactInformation/ContactInfo
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import ImportAbout from '../components/ImportAndExport/ImportAbout';
 import ImportCenterCont from '../container/ImportAndExport/ImportCenterCont';
-import ImportContentCont from '../container/ImportAndExport/ImportContentCont';
+// import ImportContentCont from '../container/ImportAndExport/ImportContentCont';
 import ImportTextContainer from '../container/TextContainer/ImportTextContainer';
 import ImportTextContainerCont from '../container/TextContainer/ImportTextContainerCont';
 
@@ -18,12 +18,13 @@ const ImportAndExport = () => {
             <Header />
             <ServiceSlider 
             title="Import And Export"
+            tagline="We harness the power of technology to put your firm on the forefront"
             bgImg="he-1.jpg"/>
             <ImportAbout/>
             <ImportCenterCont/>
             <ImportTextContainer/>
             <ImportTextContainerCont/>
-            <ImportContentCont/>
+            {/*<ImportContentCont/>*/}
             <ContactInformationThree />
             <Footer />
             <ScrollToTop />

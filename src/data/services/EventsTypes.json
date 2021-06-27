@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "dispPara":"disp_para",
+        "title": "Annual Corporate Meets"
+    },
+    {
+        "id": "2",
+        "dispPara":"disp_para",
+        "title": "Launches And Exhibitions"
+    },
+    {
+        "id": "3",
+        "dispPara":"disp_para",
+        "title": "Staff And Family Fun Days"
+    },
+    {
+        "id": "4",
+        "dispPara":"disp_para",
+        "title": "Team Building"
+    },
+    {
+        "id": "5",
+        "dispPara":"disp_para",
+        "title": "Corporate Gifts / Souvenirs"
+    },
+    {
+        "id": "6",
+        "dispPara":"disp_para",
+        "title": "R&R / Award Ceremonies"
+    },
+    {
+        "id": "7",
+        "dispPara":"disp_para",
+        "title": "Corporate Films / Media Coverage"
+    }
+]

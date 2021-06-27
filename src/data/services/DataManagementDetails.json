@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "dispPara":"",
+        "title": "Data Mining",
+        "info": "Our professionals can detect useful patterns in databases that lead to better and efficient business decisions."
+    },
+    {
+        "id": "2",
+        "dispPara":"",
+        "title": "Data Integration",
+        "info": "We provide services to combine data from different sources and structure it into meaningful and valuable information. "
+    },
+    {
+        "id": "3",
+        "dispPara":"",
+        "title": "Data Scanning",
+        "info": "It involves identifying data assets, sensitive data and understanding how data is used."
+    },
+    {
+        "id": "4",
+        "dispPara":"",
+        "title": "Data Governance",
+        "info": " Our personnel provide solutions needed to implement policies and procedures to ensure data availability, security, integrity and usability. It includes data stewardship, data quality, master data management and data governance use cases."
+    },
+    {
+        "id": "5",
+        "dispPara":"",
+        "title": "Data Analysis",
+        "info": " Our data analytics services help you to discover valuable information that support decision-making."
+    }
+]

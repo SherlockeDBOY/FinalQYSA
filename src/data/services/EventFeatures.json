@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "dispPara":"",
+        "title": "PRINT & GRAPHIC DESIGN: ",
+        "info": "We design creative logos, banners etc., according to the client’s brand and the theme of the event"
+    },
+    {
+        "id": "2",
+        "dispPara":"disp_para",
+        "title": "DECOR DESIGN & FABRICATION:  ",
+        "info": ""
+    },
+    {
+        "id": "3",
+        "dispPara":"disp_para",
+        "title": "LIGHTING DESIGN & PRODUCTION:",
+        "info": ""
+    },
+    {
+        "id": "4",
+        "dispPara":"disp_para",
+        "title": "TABLE DESIGN & EXECUTION:",
+        "info": ""
+    },
+    {
+        "id": "5",
+        "dispPara":"disp_para",
+        "title": "FLORAL DESIGN & INSTALLATION:",
+        "info": ""
+    },
+    {
+        "id": "6",
+        "dispPara":"",
+        "title": "SOUND DESIGN: ",
+        "info": "Our sound design team will provide a world-class audio experience according to the occasion and needs."
+    },
+    {
+        "id": "7",
+        "dispPara":"",
+        "title": "INVITATION & RSVP MANAGEMENT: ",
+        "info": "Our crew takes care of invitation and RSVP. Through this, we can estimate the expected number of guests and make preparations accordingly."
+    },
+    {
+        "id": "8",
+        "dispPara":"",
+        "title": "BUDGET DEVELOPMENT: ",
+        "info": "Cost-cutting and effective procedures can be provided by us if needed."
+    },
+    {
+        "id": "9",
+        "dispPara":"",
+        "title": "CRITICAL PATH DEVELOPMENT: ",
+        "info": "Pay for the damages is applied to all the services/items we provide(like a chair, table, LED screen, etc.)."
+    },
+    {
+        "id": "10",
+        "dispPara":"",
+        "title": "VENDOR CONTRACT NEGOTIATION: ",
+        "info": "Because of our network and connections with multiple companies, we can provide many services and cater to many events even in peak season."
+    },
+    {
+        "id": "11",
+        "dispPara":"",
+        "title": "CATERING CONSULTATION: ",
+        "info": "We can connect you to the desired chefs, catering and staff that you require."
+    },
+    {
+        "id": "12",
+        "dispPara":"",
+        "title": "EVENT STAFFING:",
+        "info": " Event location, atmosphere and audience are taken into consideration when we provide staff tailored for you."
+    },
+    {
+        "id": "13",
+        "dispPara":"",
+        "title": "MEDIA RELATIONS: ",
+        "info": "Our personnel will take care of announcements and broadcasting the event on media like TV, radio, newspaper, etc."
+    },
+    {
+        "id": "14",
+        "dispPara":"",
+        "title": "SPONSORSHIP MANAGEMENT: ",
+        "info": "Our company will provide sponsors for you that are appropriate for your event.  "
+    },
+    {
+        "id": "15",
+        "dispPara":"",
+        "title": "TALENT PROCUREMENT:",
+        "info": " Our team is connected with internal talent pools and  has partnerships with staffing suppliers, outsourcing service firms and independent contractors. It ensures that we never run out of high-quality staff."
+    },
+    {
+        "id": "16",
+        "dispPara":"",
+        "title": "VIDEO PRODUCTION MANAGEMENT: ",
+        "info": "Our video production team consists of experts who deliver top-notch video quality in post-production."
+    },
+    {
+        "id": "17",
+        "dispPara":"",
+        "title": "MULTIMEDIA PRODUCTION MANAGEMENT: ",
+        "info": "Our experts take care of Presentations, Graphics, Motion Graphics, Opening Videos, Awards, Categories Videos, Custom Screen Content, Loops/Sponsor Loops, Digital Signage, etc. "
+    },
+    {
+        "id": "18",
+        "dispPara":"",
+        "title": "HOSPITALITY & TRAVEL: ",
+        "info": "You won't have to undergo the hassle of making several bookings as we take care of the venue, hotel accommodation and travel arrangements for guests according to your requirement."
+    },
+    {
+        "id": "19",
+        "dispPara":"",
+        "title": "PROTOCOL & CONCIERGE ACTIVATION: ",
+        "info": "We provide security services for the event. We provide a reliable staff team for guiding and assisting guests when they reach the venue. "
+    },
+    {
+        "id": "20",
+        "dispPara":"",
+        "title": "TOTAL EVENT LOGISTICS: ",
+        "info": "Logistics of the entire event consisting of the event venue, staffing and post-production multimedia is taken care of by us."
+    }
+]

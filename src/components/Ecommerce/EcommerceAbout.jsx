@@ -26,7 +26,10 @@ const EcommerceAbout = () => {
                         <div className="my-5 mb-md-10">
                             <div className="row mb-n10">
                             <p className="text-center font-18">
-                            Our e-commerce fulfilment solutions allow you to gain greater control of product selection, inventory management, and customer service, while maintaining critical speed-to-market. With our focus on API integration with all e-commerce platforms, fulfilment expertise, and purpose-located hubs, you benefit from 2-day delivery to 99% of the INDIA.; streamlined operation stand-up, product personalization, and improved customer satisfaction. Through our e-commerce fulfilment solution, you get: a streamlined on-boarding process to ensure you are operational quickly; specially trained teams that provide you with talent management; best-in-class warehouse order and management systems; and full reverse logistics capabilities. As a result, you overcome the challenges of operating an omni-channel supply chain, meet the e-commerce demands of consumers who expect two-day delivery, and provide real-time inventory management.                             
+                            Our e-commerce fulfilment solutions give you greater control of product selection, inventory management, and customer service while maintaining critical speed-to-market. With our focus on API integration with all e-commerce platforms, fulfilment expertise, and purpose-located hubs; you benefit from 2-day delivery to 99% of India. We provide streamlined operation stand-up, product personalization, and improved customer satisfaction. <br/><br/>
+
+                            Through our e-commerce fulfilment solutions, you get a streamlined onboarding process to ensure you are operational quickly. Our specially trained teams will provide talent management; best-in-class warehouse order and management systems; and full reverse logistics capabilities. As a result, you overcome the challenges of operating an omnichannel supply chain and meet the e-commerce demands of consumers who expect two-day delivery. We also provide real-time inventory management.
+                         
                             </p>
                             </div>
                         </div>

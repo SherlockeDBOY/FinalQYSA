@@ -1,17 +1,17 @@
 [
     {
         "id": "1",
-        "title": "#1 The best technology in the industry",
-        "info": "A powerful platform with comprehensive services to register and manage your company. All online - anytime, anywhere."
+        "title": "# 1 The best technology in the industry",
+        "info": "A powerful platform with comprehensive services to register and manage your company needs. All online - anytime and anywhere."
     },
     {
         "id": "2",
         "title": "#2 The best experts in the industry",
-        "info": "Our people are experienced professionals with deep expertise in Indian corporate services industry. They take the time to understand your needs and deliver solutions that appropriate, practical, and cost-effective."
+        "info": "Our experienced professionals have deep expertise in the Indian corporate services industry. They patiently understand your needs and deliver solutions that are appropriate, practical, and cost-effective."
     },
     {
         "id": "3",
         "title": "#3 Fair and transparent pricing",
-        "info": "You will know all costs up front, with no hidden fees or surprises. We believe that enduring customer relationships can only be created by offering great solutions, providing superior service, and clearly communicating our fees."
+        "info": "You will know all the costs upfront, with no hidden fees or surprises. We believe that enduring customer relationships can only be created by offering great solutions, providing superior service, and communicating our charges explicitly."
     }
 ]
