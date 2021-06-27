@@ -39,7 +39,7 @@ const EcommerceTextContainerCont = () => {
                     <div className="col mb-6" data-aos="fade-up">
                         {textData && textData.map((single, key) => {
                             return (
-                                <div key={key} className="col mb-6" data-aos="fade-up">
+                                <div key={key} className="col mb-8" data-aos="fade-up">
                                     <TextBox data={single} key={key} />
                                 </div>
                             );

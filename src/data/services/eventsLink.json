@@ -1,125 +1,125 @@
 [
     {
         "id": 1,
-        "title": "",
+        
         "list": [
             {
             "id": 1,
-            "text": "PRINT & GRAPHIC DESIGN :",
-            "url": "/service"
+            "text": "PRINT & GRAPHIC DESIGN "
+            
             },
             {
             "id": 2,
-            "text": "DECOR DESIGN & FABRICATION:",
-            "url": "/about"
+            "text": "DECOR DESIGN & FABRICATION"
+            
             },
             {
             "id": 3,
-            "text": "LIGHTING DESIGN & PRODUCTION:",
-            "url": "/contact"
+            "text": "LIGHTING DESIGN & PRODUCTION"
+            
             },
             {
             "id": 4,
-            "text": "TABLE DESIGN & EXECUTION:",
-            "url": "/contact"
+            "text": "TABLE DESIGN & EXECUTION"
+            
             },
             {
             "id": 5,
-            "text": "FLORAL DESIGN & INSTALLATION:",
-            "url": "/contact"
+            "text": "FLORAL DESIGN & INSTALLATION"
+            
             }
         ]
     },
     {
         "id": 2,
-        "title": "",
+        
         "list": [
             {
             "id": 1,
-            "text": "SOUND DESIGN:",
-            "url": "/service"
+            "text": "SOUND DESIGN"
+            
             },
             {
             "id": 2,
-            "text": "INVITATION & RSVP MANAGEMENT:",
-            "url": "/about"
+            "text": "INVITATION & RSVP MANAGEMENT"
+            
             },
             {
             "id": 3,
-            "text": "CRITICAL PATH DEVELOPMENT:",
-            "url": "/contact"
+            "text": "CRITICAL PATH DEVELOPMENT"
+            
             },
             {
             "id": 4,
-            "text": "VENDOR CONTRACT NEGOTIATION:",
-            "url": "/contact"
+            "text": "VENDOR CONTRACT NEGOTIATION"
+            
             },
             {
             "id": 5,
-            "text": "CATERING CONSULTATION:",
-            "url": "/contact"
+            "text": "CATERING CONSULTATION"
+            
             }
         ]
     },
     {
         "id": 3,
-        "title": "",
+        
         "list": [
             {
             "id": 1,
-            "text": "EVENT STAFFING:",
-            "url": "/service"
+            "text": "EVENT STAFFING"
+            
             },
             {
             "id": 2,
-            "text": "MEDIA RELATIONS:",
-            "url": "/about"
+            "text": "MEDIA RELATIONS"
+            
             },
             {
             "id": 3,
-            "text": "SPONSORSHIP MANAGEMENT:",
-            "url": "/contact"
+            "text": "SPONSORSHIP MANAGEMENT"
+            
             },
             {
             "id": 4,
-            "text": "TALENT PROCUREMENT:",
-            "url": "/contact"
+            "text": "TALENT PROCUREMENT"
+            
             },
             {
             "id": 5,
-            "text": "VIDEO PRODUCTION MANAGEMENT:",
-            "url": "/contact"
+            "text": "VIDEO PRODUCTION MANAGEMENT"
+            
             }
         ]
     },
     {
         "id": 4,
-        "title": "",
+        
         "list": [
             {
             "id": 1,
-            "text": "MULTIMEDIA PRODUCTION MANAGEMENT :",
-            "url": "/service"
+            "text": "BUDGET DEVELOPMENT"
+            
             },
             {
             "id": 2,
-            "text": "HOSPITALITY & TRAVEL:",
-            "url": "/about"
+            "text": "HOSPITALITY & TRAVEL"
+            
             },
             {
             "id": 3,
-            "text": "PROTOCOL & CONCIERGE ACTIVATION:",
-            "url": "/contact"
+            "text": "PROTOCOL & CONCIERGE ACTIVATION"
+            
             },
             {
             "id": 4,
-            "text": "TOTAL EVENT LOGISTICS:",
-            "url": "/contact"
+            "text": "TOTAL EVENT LOGISTICS"
+            
             },
             {
             "id": 5,
-            "text": "BUDGET DEVELOPMENT:",
-            "url": "/contact"
+            "text": " MULTIMEDIA PRODUCTION MANAGEMENT "
+            
             }
         ]
     }

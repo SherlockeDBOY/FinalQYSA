@@ -8,7 +8,7 @@ const ImportContentCont = () => {
 
                     <div className="col-lg-8 m-auto" data-aos="fade-up">
                         <div className="about-content-full text-center mb-lg-10 mb-0">
-                            <p className="fz-32">
+                            <p className="font-18">
                             Our extensive library of well-researched articles about incorporating and running a Indian company is always available to you. Learn before you act.
                             <br/><br/>
                             

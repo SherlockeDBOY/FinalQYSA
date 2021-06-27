@@ -22,12 +22,12 @@ const DataAccordion = () => {
     return (
         <div className="faq-section section section-padding-bottom bg-primary-blue">
             <div className="container">
-                <div className="row col-xl-8 col-1">
+                <div className="row col-xl-8 col-lg-8 col-md-12 col-sm-12">
                     <SectionTitleTwo 
                     title="Activate -Send the data to your existing platforms and specifications"
                     />
                 </div>
-                <div className="row row-cols-lg-12 row-cols-12 mb-n6">
+                <div className="row row-cols-xl-2 row-cols-lg-2 row-cols-md-1 row-cols-1 mb-n6">
                     
                     <div className="col mb-6" data-aos="fade-up">
                         <div className="faq-content">
@@ -37,7 +37,7 @@ const DataAccordion = () => {
                         </div>
                     </div>
 
-                    <div className="col mb-6 pl-xl-12" data-aos="fade-up" data-aos-delay="300">
+                    <div className="col my-6 pl-xl-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-image-area d-flex">
 
                             <div className="service-image ecom">

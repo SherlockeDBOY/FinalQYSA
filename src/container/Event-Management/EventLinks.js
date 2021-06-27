@@ -11,10 +11,10 @@ const EventLinks = () => {
             <SectionTitle
                 title="List of Services"
             />
-            <div className="row mb-lg-6 mb-md-10 mb-6 section-padding">
+            <div className="row mt-5 mb-lg-6 mb-md-10 mb-6 section-padding-bottom">
                 {EventData && EventData.map((single, key) => {
                         return(
-                            <div key={key} className="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-6 mb-6 text-center">
+                            <div key={key} className="col-xl-3 col-lg-3 col-md-6 col-sm-12 mb-6 text-center">
                                 <EventLinkItem data={single} key={key} />
                             </div>
                         ); 

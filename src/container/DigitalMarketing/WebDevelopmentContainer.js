@@ -13,9 +13,9 @@ const WebDevelopmentContainer = () => {
                 </div>
                 <div className="col-lg-12 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
                 <div className="footer-widget">
-                            <h5 className=" text-left" style={{color:"black"}}>We provide expert solutions for web design as well as web development services. </h5>
+                            <h4 className=" text-left" style={{color:"black"}}>We provide expert solutions for web design as well as web development services. </h4>
                             <div className="footer-widget-content ecom-widget-content">
-                                <ul>
+                                <ul className="font-17">
                                         <li style={{lineHeight:"3"}} data-aos="fade-up">
                                         Web Development: HTML web Development
                                         </li>
@@ -35,7 +35,7 @@ const WebDevelopmentContainer = () => {
                                         Dynamic Website Development
                                         </li>
                                     </ul>
-                                    <ul>
+                                    <ul className="font-17">
                                         <li style={{lineHeight:"3"}} data-aos="fade-up">
                                         CMS website Development
                                         </li>
@@ -62,14 +62,14 @@ const WebDevelopmentContainer = () => {
                 <div className="row mt-lg-20 mt-12">
                 <div className="col-lg-4 col-md-12 col-12">
                     <div className="digital-marketing" data-aos="fade-up">
-                        <h5 className="heading heading-h3">
-                        Franchise Marketing</h5>
+                        <h4 className="heading heading-h4">
+                        Franchise Marketing</h4>
                     </div>
                 </div>
                 <div className="col-lg-7 col-md-12 col-12 offset-lg-1">
                     <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                         <div className="inner">
-                            <p>
+                            <p className="font-18">
                             Looking for more franchisees? We provide marketing strategies to attract new client and customers to increase your franchise awareness and revenue.
                             </p>
                         </div>
@@ -79,14 +79,14 @@ const WebDevelopmentContainer = () => {
                 <div className="row mt-lg-20 mt-12">
                 <div className="col-lg-4 col-md-12 col-12">
                     <div className="digital-marketing" data-aos="fade-up">
-                        <h5 className="heading heading-h3">
-                        Online Reputation Management</h5>
+                        <h4 className="heading heading-h4">
+                        Online Reputation Management</h4>
                     </div>
                 </div>
                 <div className="col-lg-7 col-md-12 col-12 offset-lg-1">
                     <div className="digital-marketing mt-lg-0 mt-6" data-aos="fade-up">
                         <div className="inner">
-                            <p>
+                            <p className="font-18">
                             Radio, Television & Influencer Marketing
                             </p>
                         </div>

@@ -7,7 +7,7 @@ const BulletBlocks = ({data}) => {
             <div className={`bullet-block__icon ${data.dispPara}`}></div>
             <div className="bullet-block__content">
                 <h3>{data.title}</h3>
-                <span className={`bullet-block__p text-left ${data.dispPara}`} dangerouslySetInnerHTML={{ __html: data.info }} />
+                <span className={`bullet-block__p font-17 text-left ${data.dispPara}`} dangerouslySetInnerHTML={{ __html: data.info }} />
             </div>
         </div>
     )

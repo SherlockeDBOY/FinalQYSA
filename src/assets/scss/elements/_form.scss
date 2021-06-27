@@ -1,5 +1,6 @@
 /* 04.6 Form CSS */
 select,
+option,
 input[type="text"],
 input[type="email"],
 input[type="url"],
@@ -32,15 +33,13 @@ select {
     width: 100%;
     line-height: 30px;
     font-size: 16px;
-    background-color: #fff3f3;
-    border: 1px solid #f5f5f5;
+    background-color: #fff3f3 !important;
     border-radius: 5px;
     min-height: 30px;
     padding: 1rem;
 
     &:hover {
       background-color: #9f9f9f;
-      color: #f5f5f5;
     }
   }
 }

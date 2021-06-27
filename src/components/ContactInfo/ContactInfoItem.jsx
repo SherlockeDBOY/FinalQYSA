@@ -18,7 +18,7 @@ const ContactInfoItem = ({data}) => {
             </div>
             <div className="info">
                 <h4 className="title">{data.title}</h4>
-                <span className="info-text" dangerouslySetInnerHTML={{__html: data.info}}/>
+                <span className="info-text font-16" dangerouslySetInnerHTML={{__html: data.info}}/>
             </div>
         </div>
     )

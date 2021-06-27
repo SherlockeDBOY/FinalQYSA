@@ -25,15 +25,15 @@ const ProjectForm = () => {
 					})} />
                     {errors.email && <p>{errors.email.message}</p>}
                 </div>
-                <div className="col-12 mb-6">
+                <div className="col-md-12 col-12 mb-4">
                 <select value="Our Services">
-                    <option>All Services</option>
-                    <option>Placement and Training</option>
-                    <option>Import and Export</option>
-                    <option>Ecommerce</option>
-                    <option>Digital Marketing and Website Development</option>
-                    <option>Data Management</option>
-                    <option>Event Management / Manpower</option>
+                    <option selected value="All Services">All Services</option>
+                    <option value="Placement and Training">Placement and Training</option>
+                    <option value="Import and Export">Import and Export</option>
+                    <option value="Ecommerce">Ecommerce</option>
+                    <option value="Digital Marketing and Website Development">Digital Marketing and Website Development</option>
+                    <option value="Data Management">Data Management</option>
+                    <option value="Event Management / Manpower">Event Management / Manpower</option>
                 </select>
                 </div>
                 <div className="col-12 mb-6">

@@ -6,7 +6,7 @@ const TextBox = ({ data }) => {
         <div className="contact-info">
             <div className="info text-left">
                 <h4>{data.title}</h4>
-                <span className="info-text text-left" dangerouslySetInnerHTML={{ __html: data.info }} />
+                <span className="info-text text-left font-17" dangerouslySetInnerHTML={{ __html: data.info }} />
             </div>
         </div>
     )

@@ -20,13 +20,13 @@ const ImportTextContainer = () => {
 
     }, [])
     return (
-        <div className={`section section-padding`}>
+        <div className={`section section-padding-top`}>
             <div className="container">
                 <div className="row row-cols-lg-2 row-cols-md-1 row-cols-sm-1 row-cols-1 mb-n6">
-                    <div className="col mb-6" data-aos="fade-up">
+                    <div className="col mb-2" data-aos="fade-up">
                         {textData && textData.map((single, key) => {
                             return (
-                                <div key={key} className="col mb-6" data-aos="fade-up">
+                                <div key={key} className="col mb-8" data-aos="fade-up">
                                     <TextBox data={single} key={key} />
                                 </div>
                             );
