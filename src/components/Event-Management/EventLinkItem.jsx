@@ -7,7 +7,7 @@ const EventLinkItem = ({ data }) => {
             <div className="footer-widget-content">
                 <ul className="text-left ml-15">
                     {data.list.map((single,key) =>(
-                        <li className="font-18" key={key} style={{lineHeight:"3", listStyle:"disc"}} data-aos="fade-up">
+                        <li className="font-18" key={key} style={{lineHeight:"1.5", listStyle:"disc"}} data-aos="fade-up">
                             {single.text}
                         </li>
                     ))}

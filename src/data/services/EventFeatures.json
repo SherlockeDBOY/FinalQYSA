@@ -6,30 +6,6 @@
         "info": "We design creative logos, banners etc., according to the client’s brand and the theme of the event"
     },
     {
-        "id": "2",
-        "dispPara":"disp_para",
-        "title": "DECOR DESIGN & FABRICATION:  ",
-        "info": ""
-    },
-    {
-        "id": "3",
-        "dispPara":"disp_para",
-        "title": "LIGHTING DESIGN & PRODUCTION:",
-        "info": ""
-    },
-    {
-        "id": "4",
-        "dispPara":"disp_para",
-        "title": "TABLE DESIGN & EXECUTION:",
-        "info": ""
-    },
-    {
-        "id": "5",
-        "dispPara":"disp_para",
-        "title": "FLORAL DESIGN & INSTALLATION:",
-        "info": ""
-    },
-    {
         "id": "6",
         "dispPara":"",
         "title": "SOUND DESIGN: ",
@@ -118,5 +94,29 @@
         "dispPara":"",
         "title": "TOTAL EVENT LOGISTICS: ",
         "info": "Logistics of the entire event consisting of the event venue, staffing and post-production multimedia is taken care of by us."
+    },
+    {
+        "id": "2",
+        "dispPara":"disp_para",
+        "title": "DECOR DESIGN & FABRICATION",
+        "info": ""
+    },
+    {
+        "id": "3",
+        "dispPara":"disp_para",
+        "title": "LIGHTING DESIGN & PRODUCTION",
+        "info": ""
+    },
+    {
+        "id": "4",
+        "dispPara":"disp_para",
+        "title": "TABLE DESIGN & EXECUTION",
+        "info": ""
+    },
+    {
+        "id": "5",
+        "dispPara":"disp_para",
+        "title": "FLORAL DESIGN & INSTALLATION",
+        "info": ""
     }
 ]

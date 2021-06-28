@@ -6,7 +6,6 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import DataManagementAbout from '../components/DataManagement/DataManagementAbout';
-import DataBulletContainer from '../container/DataManagement/DataBulletContainer';
 import DataTextBoxContainer from '../container/DataManagement/DataTextBoxContainer';
 import DataTextBoxContainerCont from '../container/DataManagement/DataTextBoxContainerCont';
 // import DataAccordion from '../container/DataManagement/DataAccordion';
@@ -21,7 +20,6 @@ const DataManagement = () => {
             tagline="Decision making has never been easier"
             bgImg="he-4.jpg"/>
             <DataManagementAbout/>
-            <DataBulletContainer/>
             <DataTextBoxContainer/>
             <DataTextBoxContainerCont/>
             {/*<DataAccordion/>*/}

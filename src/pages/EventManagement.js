@@ -6,10 +6,11 @@ import EventManagementAbout from '../components/Event-Management/EventManagement
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
 import ContactInformationThree from '../container/ContactInformation/ContactInformationThree';
-import EventLinks from '../container/Event-Management/EventLinks';
+// import EventLinks from '../container/Event-Management/EventLinks';
 import ServiceSlider from '../container/IntroSlider/ServiceSlider';
 import EventAboutCont from '../container/Event-Management/EventAboutCont';
 import EventBulletContainer from '../container/Event-Management/EventBulletContainer';
+import EventGalleryContainer from '../container/Event-Management/EventGalleryContainer';
 
 
 
@@ -23,7 +24,8 @@ const EventManagement = () => {
             tagline="Your one stop-shop for everything you need for your next awesome event."
             bgImg="he-2.jpg"/>
             <EventManagementAbout />
-            <EventLinks />
+            <EventGalleryContainer/>
+            {/*<EventLinks />*/}
             <EventBulletContainer/>
             <EventAboutCont/>
             <ContactInformationThree />

@@ -31,14 +31,7 @@
         "pageLink": "Learn More",
         "link": "/import-and-export"
     },
-    {
-        "id": "5",
-        "icon": "images/svg/linea/cybersecurity.svg",
-        "title": "Cyber-Security",
-        "desc": "Our integrated solutions for Dark Web monitoring helps to find your data. We have fully automated solutions that protect you from various digital risks and hazards.",
-        "pageLink": "Learn More",
-        "link": "/our-services"
-    },
+    
     {
         "id": "6",
         "icon": "images/svg/linea/Ecommerce.svg",
@@ -54,13 +47,5 @@
         "desc": "We specialise in branding and web development and have marketing experience with Fortune 500 companies and iconic brands. We can promote your brands...",
         "pageLink": "Learn More",
         "link": "/digital-marketing"
-    },
-    {
-        "id": "8",
-        "icon": "images/svg/linea/Blockchain.svg",
-        "title": "Blockchain",
-        "desc": "Keeping track of your online transactions can be difficult.\n\n We have professionals who can use Blockchain to store your digital ledgers.",
-        "pageLink": "Learn More",
-        "link": "/our-services"
     }
 ]

@@ -9,7 +9,7 @@ const TrainingItem = ({ portfolio }) => {
             <div className="col-xl-12 col-auto my-5">
                 <div className="info">
                     <h3><span className="info-text" dangerouslySetInnerHTML={{__html: portfolio.categories}}/></h3>
-                    <span className="info-text" dangerouslySetInnerHTML={{__html: portfolio.body}}/>
+                    <span className="info-text font-17" dangerouslySetInnerHTML={{__html: portfolio.body}}/>
                 </div>
             </div>
         </div>

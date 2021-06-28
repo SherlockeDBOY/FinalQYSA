@@ -6,21 +6,30 @@ const EcommerceContentCont = () => {
             <div className="container">
                 <div className="row">
 
-                    <div className="col-lg-10 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
+                    <div className="col-lg-12 col-md-12 col-sm-12 m-auto" data-aos="fade-up">
                         <div className="about-content-full text-center  mb-lg-10 mb-0">
                         <h2 className=" text-center my-10" style={{color:"black"}}>Our platform offers</h2>
-                            <div className="d-flex col-lg-10 mx-auto justify-content-evenly mb-10">
+                            <div className="ecommerce-list col-lg-12 col-md-12 col-sm=12 mx-auto mb-10">
+                                <div className="col-xl-3 col-lg-3 col-md-10 col-sm-10 mx-auto">
+                                    <ul style={{padding:"0"}} className="font-17">
+                                        <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Beautiful Online Store</li>
+                                        <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Multiple Payment Gateways</li>
+                                    </ul>
+                                </div>
+                                <div className="col-xl-3 col-lg-3 col-md-10 col-sm-10 mx-auto">
                                 <ul style={{padding:"0"}} className="font-17">
-                                    <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Beautiful Online Store</li>
-                                    <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Multiple Payment Gateways</li>
+                                <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Hybrid Mobile App</li>
+                                <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Digital Marketing</li>
+                                </ul>
+                                </div>
+                                <div className="col-xl-3 col-lg-3 col-md-10 col-sm-10 mx-auto">
+                                <ul style={{padding:"0"}} className="font-17">
                                     <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Shipping Solution</li>
-                                </ul>
-                                <ul style={{padding:"0"}} className="font-17">
                                     <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Numerous Marketing Tools</li>
-                                    <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Hybrid Mobile App</li>
-                                    <li className="contact-info my-3 justify-content-center" style={{listStyle:"none"}}>Digital Marketing</li>
                                 </ul>
+                                </div>
                             </div>
+
                             <p className="font-18">
                             With our vision, we can create a fast, robust and beautiful E-commerce website platform for any business. We also improve e-following for Indian merchants by giving them start to finish solutions loaded with the latest features, for exhibiting their products on our platform.
                             </p>

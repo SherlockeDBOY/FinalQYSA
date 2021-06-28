@@ -1,7 +1,7 @@
 import React from 'react';
 // import SectionTitleTwo from '../../components/SectionTitles/SectionTitleTwo';
-import useMasonry from "../../hooks/use-masonry";
-import TrainingFilter from "../../components/TrainingAndPlacement/TrainingFilter";
+import useMasonry from "../../hooks/use-masonry2";
+import TrainingFilter from "../../components/TrainingAndPlacement/TrainingFilter2";
 import WorkItem from "../../components/TrainingAndPlacement/TrainingItem";
 import workData from '../../data/services/trainingDetails.json';
 import {slugify} from "../../utils";
