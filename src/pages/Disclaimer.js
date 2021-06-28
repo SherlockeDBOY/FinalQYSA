@@ -4,7 +4,7 @@ import Header from "../partials/header/Header";
 import Breadcrumb from '../container/Breadcrumb/Breadcrumb';
 import Footer from '../container/Footer/Footer';
 import ScrollToTop from '../components/ScrollToTop.jsx';
-import DisclaimerContainer from '../container/Disclaimer/DisclaimerContainer';
+import DisclaimerContainer from '../container/Disclaimer/DisclaimerContainer2';
 
 const Disclaimer = () => {
     return (
