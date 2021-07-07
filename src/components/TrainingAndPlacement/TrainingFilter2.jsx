@@ -9,7 +9,7 @@ const TrainingFilter = ({ categories, classOption }) => {
         //     {categories.map((cat, idx) => <button key={idx} data-filter={`.${slugify(cat)}`}><span className=""><strong>{cat}</strong></span></button>)}
         // </div>
         <div className={`messonry-button ${classOption}`}>
-            {categories.map((cat, idx) => <button className="is-checked"  key={idx} data-filter={`.${slugify(cat)}`}><span ><strong>{cat}</strong></span></button>)}
+            {categories.map((cat, idx) => <button className="is-checked filter-text"  key={idx} data-filter={`.${slugify(cat)}`}><span >{cat}</span></button>)}
         </div>
     )
 }

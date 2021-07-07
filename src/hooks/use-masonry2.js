@@ -34,6 +34,7 @@ const useMasonry = (portfolioData, masonryListWrap, masonryGrid, btnWrap, btn) =
             filterItems.forEach((filterItem) => {
                 filterItem.addEventListener('click', (e) => {
                     const filterCate = filterItem.dataset.filter;
+                    // const filterCate = filterItem.filter((e) => e.click === filterItem.click);
                     filterWrap.querySelector('.is-checked').classList.remove('is-checked');
                     e.target.classList.add("is-checked");
                     Iso.arrange({
