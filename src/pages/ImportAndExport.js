@@ -19,7 +19,7 @@ const ImportAndExport = () => {
             <ServiceSlider 
             title="Import And Export"
             tagline="We harness the power of technology to put your firm on the forefront"
-            bgImg="he-1.jpg"/>
+            bgImg="Import_and_Export-Banner.jpg"/>
             <ImportAbout/>
             <ImportCenterCont/>
             <ImportTextContainer/>

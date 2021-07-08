@@ -20,7 +20,7 @@ const Ecommerce = () => {
             <ServiceSlider
                 title="Ecommerce"
                 tagline="Fast and flexible solutions to meet today’s omni-channel demands."
-                bgImg="he-3.jpg" />
+                bgImg="Ecommerce-Banner.jpg" />
             <EcommerceAbout />
             <EcommerceTextContainer />
             <EcommerceTextContainerCont />

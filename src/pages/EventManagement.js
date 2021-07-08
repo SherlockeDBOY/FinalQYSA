@@ -22,7 +22,7 @@ const EventManagement = () => {
             <ServiceSlider 
             title="Event Management"
             tagline="Your one stop-shop for everything you need for your next awesome event."
-            bgImg="he-2.jpg"/>
+            bgImg="Event_Management-Banner.jpg"/>
             <EventManagementAbout />
             <EventGalleryContainer/>
             {/*<EventLinks />*/}

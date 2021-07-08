@@ -16,6 +16,7 @@ const TrainingAbout = () => {
         return () => parallaxInstance.disable();
 
     }, [])
+    // images/about/Training_and_Placement-intro.jpg
     return (
         <div className="section section-padding">
         <div className="container">
