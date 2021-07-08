@@ -35,9 +35,9 @@ const TrainingAbout = () => {
 
                 <div className="col-xl-5 col-lg-5 col-12" data-aos="fade-up" data-aos-delay="300">
                     <div className="about-image-area about-shape-animation justify-content-center mr-0 mx-auto mt-5">
-                        <div className="about-image center-img js-tilt">
+                        <div className="service-image js-tilt">
                             <Tilt scale={scale} transitionSpeed={4000}>
-                                <img src={process.env.PUBLIC_URL + "images/about/about-1.jpg"} alt="" />
+                                <img src={process.env.PUBLIC_URL + "images/about/Training_and_Placement-intro.jpg"} alt="" />
                             </Tilt>
                         </div>
                         <div className="shape shape-1" id="scene" ref={sceneEl}>
